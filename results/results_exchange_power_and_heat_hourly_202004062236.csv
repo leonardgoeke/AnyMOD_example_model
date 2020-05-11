@@ -1,0 +1,91 @@
+timestep_superordinate_dispatch,region_from,region_to,carrier,value,variable
+10th < 2020,East,West,electricity,17.211704589931898,expExc
+20th < 2025,East,West,electricity,0.0,expExc
+20th < 2030,East,West,electricity,0.0,expExc
+30th < 2035,East,West,electricity,0.0,expExc
+30th < 2040,East,West,electricity,7.832482873487098,expExc
+10th < 2020,West,East,electricity,17.211704589931898,expExc
+20th < 2025,West,East,electricity,0.0,expExc
+20th < 2030,West,East,electricity,0.0,expExc
+30th < 2035,West,East,electricity,0.0,expExc
+30th < 2040,West,East,electricity,7.832482873487098,expExc
+10th < 2020,East,West,electricity,17.211704589931898,capaExc
+20th < 2025,East,West,electricity,17.211704589931898,capaExc
+20th < 2030,East,West,electricity,17.211704589931898,capaExc
+30th < 2035,East,West,electricity,17.211704589931898,capaExc
+30th < 2040,East,West,electricity,25.044187463419,capaExc
+10th < 2020,West,East,electricity,19.211704589931898,capaExc
+20th < 2025,West,East,electricity,19.211704589931898,capaExc
+20th < 2030,West,East,electricity,19.211704589931898,capaExc
+30th < 2035,West,East,electricity,19.211704589931898,capaExc
+30th < 2040,West,East,electricity,27.044187463419,capaExc
+10th < 2020,East,West,gas < naturalGas,8.0,capaExc
+20th < 2025,East,West,gas < naturalGas,8.0,capaExc
+20th < 2030,East,West,gas < naturalGas,8.0,capaExc
+30th < 2035,East,West,gas < naturalGas,8.0,capaExc
+30th < 2040,East,West,gas < naturalGas,8.0,capaExc
+10th < 2020,West,East,gas < naturalGas,8.0,capaExc
+20th < 2025,West,East,gas < naturalGas,8.0,capaExc
+20th < 2030,West,East,gas < naturalGas,8.0,capaExc
+30th < 2035,West,East,gas < naturalGas,8.0,capaExc
+30th < 2040,West,East,gas < naturalGas,8.0,capaExc
+10th < 2020,East,West,electricity,2.426457735461127,exc
+20th < 2025,East,West,electricity,3.4494077094275424,exc
+20th < 2030,East,West,electricity,3.3754703963317128,exc
+30th < 2035,East,West,electricity,12.739485421213702,exc
+30th < 2040,East,West,electricity,9.815618817075489,exc
+10th < 2020,West,East,electricity,117.85416301962479,exc
+20th < 2025,West,East,electricity,74.87244184576176,exc
+20th < 2030,West,East,electricity,77.77966700331336,exc
+30th < 2035,West,East,electricity,75.08095715791202,exc
+30th < 2040,West,East,electricity,133.02832823891225,exc
+10th < 2020,East,West,gas < naturalGas < fossilGas,0.0,exc
+10th < 2020,East,West,gas < naturalGas < synthGas,0.0,exc
+20th < 2025,East,West,gas < naturalGas < fossilGas,0.0,exc
+20th < 2025,East,West,gas < naturalGas < synthGas,0.0,exc
+20th < 2030,East,West,gas < naturalGas < fossilGas,0.0,exc
+20th < 2030,East,West,gas < naturalGas < synthGas,0.0,exc
+30th < 2035,East,West,gas < naturalGas < fossilGas,51.22893827237939,exc
+30th < 2035,East,West,gas < naturalGas < synthGas,0.0,exc
+30th < 2040,East,West,gas < naturalGas < fossilGas,0.0,exc
+30th < 2040,East,West,gas < naturalGas < synthGas,3.2832082572122765,exc
+10th < 2020,West,East,gas < naturalGas < fossilGas,0.0,exc
+10th < 2020,West,East,gas < naturalGas < synthGas,0.0,exc
+20th < 2025,West,East,gas < naturalGas < fossilGas,0.0,exc
+20th < 2025,West,East,gas < naturalGas < synthGas,0.0,exc
+20th < 2030,West,East,gas < naturalGas < fossilGas,0.0,exc
+20th < 2030,West,East,gas < naturalGas < synthGas,0.0,exc
+30th < 2035,West,East,gas < naturalGas < fossilGas,0.0,exc
+30th < 2035,West,East,gas < naturalGas < synthGas,0.0,exc
+30th < 2040,West,East,gas < naturalGas < fossilGas,0.0,exc
+30th < 2040,West,East,gas < naturalGas < synthGas,0.0,exc
+10th < 2020,East,West,electricity,140.97718925994698,flhExc
+20th < 2025,East,West,electricity,200.4105805676735,flhExc
+20th < 2030,East,West,electricity,196.11482283435288,flhExc
+30th < 2035,East,West,electricity,740.1640758269666,flhExc
+30th < 2040,East,West,electricity,391.93201342278536,flhExc
+10th < 2020,West,East,electricity,6134.497981058253,flhExc
+20th < 2025,West,East,electricity,3897.2305396055003,flhExc
+20th < 2030,West,East,electricity,4048.5562662708567,flhExc
+30th < 2035,West,East,electricity,3908.0840956329826,flhExc
+30th < 2040,West,East,electricity,4918.924941592401,flhExc
+10th < 2020,East,West,gas < naturalGas < fossilGas,0.0,flhExc
+10th < 2020,East,West,gas < naturalGas < synthGas,0.0,flhExc
+20th < 2025,East,West,gas < naturalGas < fossilGas,0.0,flhExc
+20th < 2025,East,West,gas < naturalGas < synthGas,0.0,flhExc
+20th < 2030,East,West,gas < naturalGas < fossilGas,0.0,flhExc
+20th < 2030,East,West,gas < naturalGas < synthGas,0.0,flhExc
+30th < 2035,East,West,gas < naturalGas < fossilGas,6403.617284047424,flhExc
+30th < 2035,East,West,gas < naturalGas < synthGas,0.0,flhExc
+30th < 2040,East,West,gas < naturalGas < fossilGas,0.0,flhExc
+30th < 2040,East,West,gas < naturalGas < synthGas,410.40103215153454,flhExc
+10th < 2020,West,East,gas < naturalGas < fossilGas,0.0,flhExc
+10th < 2020,West,East,gas < naturalGas < synthGas,0.0,flhExc
+20th < 2025,West,East,gas < naturalGas < fossilGas,0.0,flhExc
+20th < 2025,West,East,gas < naturalGas < synthGas,0.0,flhExc
+20th < 2030,West,East,gas < naturalGas < fossilGas,0.0,flhExc
+20th < 2030,West,East,gas < naturalGas < synthGas,0.0,flhExc
+30th < 2035,West,East,gas < naturalGas < fossilGas,0.0,flhExc
+30th < 2035,West,East,gas < naturalGas < synthGas,0.0,flhExc
+30th < 2040,West,East,gas < naturalGas < fossilGas,0.0,flhExc
+30th < 2040,West,East,gas < naturalGas < synthGas,0.0,flhExc

@@ -1,0 +1,2598 @@
+timestep_superordinate_dispatch,region_dispatch,technology,carrier,variable,value
+10th < 2020,East,none,electricity,demand,-477.92500999999703
+10th < 2020,West,none,electricity,demand,-470.07600999999784
+10th < 2020,East < EastSouth,none,heat,demand,-483.88266000000067
+10th < 2020,East < EastNorth,none,heat,demand,-193.55253000000087
+10th < 2020,West < WestSouth,none,heat,demand,-298.9691800000004
+10th < 2020,West < WestNorth,none,heat,demand,-119.58779999999896
+20th < 2030,East,none,electricity,demand,-454.0273599999943
+20th < 2030,West,none,electricity,demand,-446.5713599999994
+20th < 2030,East < EastSouth,none,heat,demand,-387.1053099999966
+20th < 2030,East < EastNorth,none,heat,demand,-154.84210999999988
+20th < 2030,West < WestSouth,none,heat,demand,-239.17486999999926
+20th < 2030,West < WestNorth,none,heat,demand,-95.66953000000024
+30th < 2040,East,none,electricity,demand,-430.1319300000027
+30th < 2040,West,none,electricity,demand,-423.0684599999987
+30th < 2040,East < EastSouth,none,heat,demand,-290.32969000000105
+30th < 2040,East < EastNorth,none,heat,demand,-116.13146999999934
+30th < 2040,West < WestSouth,none,heat,demand,-179.38176999999908
+30th < 2040,West < WestNorth,none,heat,demand,-71.75238999999979
+20th < 2025,East,none,electricity,demand,-465.9756100000007
+20th < 2025,West,none,electricity,demand,-458.32359999999966
+20th < 2025,East < EastSouth,none,heat,demand,-435.4936600000042
+20th < 2025,East < EastNorth,none,heat,demand,-174.19756000000044
+20th < 2025,West < WestSouth,none,heat,demand,-269.07217999999966
+20th < 2025,West < WestNorth,none,heat,demand,-107.62876000000026
+30th < 2035,East,none,electricity,demand,-442.0800200000015
+30th < 2035,West,none,electricity,demand,-434.81972999999874
+30th < 2035,East < EastSouth,none,heat,demand,-338.71748999999977
+30th < 2035,East < EastNorth,none,heat,demand,-135.4866299999996
+30th < 2035,West < WestSouth,none,heat,demand,-209.2781900000011
+30th < 2035,West < WestNorth,none,heat,demand,-83.71097000000047
+10th < 2020,East,autoReforming,none,expConv,0.0
+10th < 2020,West,autoReforming,none,expConv,0.0
+20th < 2025,East,autoReforming,none,expConv,0.0
+20th < 2025,West,autoReforming,none,expConv,0.0
+20th < 2030,East,autoReforming,none,expConv,0.0
+20th < 2030,West,autoReforming,none,expConv,0.0
+30th < 2035,East,autoReforming,none,expConv,0.0
+30th < 2035,West,autoReforming,none,expConv,0.0
+30th < 2040,East,autoReforming,none,expConv,0.0
+30th < 2040,West,autoReforming,none,expConv,0.0
+10th < 2020,East,autoReforming,none,capaConv,0.0
+20th < 2025,East,autoReforming,none,capaConv,0.0
+20th < 2030,East,autoReforming,none,capaConv,0.0
+30th < 2035,East,autoReforming,none,capaConv,0.0
+10th < 2020,West,autoReforming,none,capaConv,0.0
+20th < 2025,West,autoReforming,none,capaConv,0.0
+20th < 2030,West,autoReforming,none,capaConv,0.0
+30th < 2035,West,autoReforming,none,capaConv,0.0
+30th < 2040,East,autoReforming,none,capaConv,0.0
+30th < 2040,West,autoReforming,none,capaConv,0.0
+10th < 2020,East,autoReforming,none,commCapaConv,0.0
+20th < 2025,East,autoReforming,none,commCapaConv,0.0
+20th < 2030,East,autoReforming,none,commCapaConv,0.0
+30th < 2035,East,autoReforming,none,commCapaConv,0.0
+10th < 2020,West,autoReforming,none,commCapaConv,0.0
+20th < 2025,West,autoReforming,none,commCapaConv,0.0
+20th < 2030,West,autoReforming,none,commCapaConv,0.0
+30th < 2035,West,autoReforming,none,commCapaConv,0.0
+30th < 2040,East,autoReforming,none,commCapaConv,0.0
+30th < 2040,West,autoReforming,none,commCapaConv,0.0
+10th < 2020,East,coalPlant,none,capaConv,20.0
+20th < 2025,East,coalPlant,none,capaConv,10.0
+20th < 2030,East,coalPlant,none,capaConv,10.0
+10th < 2020,East,coalPlant,none,commCapaConv,10.017795561253525
+20th < 2025,East,coalPlant,none,commCapaConv,0.15629258639072224
+20th < 2030,East,coalPlant,none,commCapaConv,0.0
+10th < 2020,East,heatpump < air,none,expConv,7.000000000000006
+10th < 2020,West,heatpump < air,none,expConv,7.0
+20th < 2025,East,heatpump < air,none,expConv,0.0
+20th < 2025,West,heatpump < air,none,expConv,0.0
+20th < 2030,East,heatpump < air,none,expConv,0.0
+20th < 2030,West,heatpump < air,none,expConv,0.0
+30th < 2035,East,heatpump < air,none,expConv,0.0
+30th < 2035,West,heatpump < air,none,expConv,0.0
+30th < 2040,East,heatpump < air,none,expConv,0.0
+30th < 2040,West,heatpump < air,none,expConv,0.0
+10th < 2020,East,heatpump < air,none,capaConv,7.000000000000007
+20th < 2025,East,heatpump < air,none,capaConv,7.000000000000007
+20th < 2030,East,heatpump < air,none,capaConv,7.000000000000007
+30th < 2035,East,heatpump < air,none,capaConv,7.000000000000007
+30th < 2040,East,heatpump < air,none,capaConv,7.0
+10th < 2020,West,heatpump < air,none,capaConv,7.0
+20th < 2025,West,heatpump < air,none,capaConv,7.0
+20th < 2030,West,heatpump < air,none,capaConv,7.0
+30th < 2035,West,heatpump < air,none,capaConv,7.0
+30th < 2040,West,heatpump < air,none,capaConv,7.0
+10th < 2020,East,heatpump < air,none,commCapaConv,7.000000000000006
+20th < 2025,East,heatpump < air,none,commCapaConv,7.000000000000006
+20th < 2030,East,heatpump < air,none,commCapaConv,7.000000000000007
+30th < 2035,East,heatpump < air,none,commCapaConv,7.000000000000007
+30th < 2040,East,heatpump < air,none,commCapaConv,6.999999999999998
+10th < 2020,West,heatpump < air,none,commCapaConv,7.0
+20th < 2025,West,heatpump < air,none,commCapaConv,7.0
+20th < 2030,West,heatpump < air,none,commCapaConv,7.0
+30th < 2035,West,heatpump < air,none,commCapaConv,7.0
+30th < 2040,West,heatpump < air,none,commCapaConv,7.0
+10th < 2020,East,methanation,none,expConv,0.0
+10th < 2020,West,methanation,none,expConv,0.0
+20th < 2025,East,methanation,none,expConv,0.0
+20th < 2025,West,methanation,none,expConv,0.0
+20th < 2030,East,methanation,none,expConv,0.0
+20th < 2030,West,methanation,none,expConv,0.0
+30th < 2035,East,methanation,none,expConv,0.0
+30th < 2035,West,methanation,none,expConv,0.0
+30th < 2040,East,methanation,none,expConv,31.81696652765502
+30th < 2040,West,methanation,none,expConv,6.086524432463161
+10th < 2020,East,methanation,none,capaConv,0.0
+20th < 2025,East,methanation,none,capaConv,0.0
+20th < 2030,East,methanation,none,capaConv,0.0
+30th < 2035,East,methanation,none,capaConv,0.0
+30th < 2040,East,methanation,none,capaConv,31.81696652765502
+10th < 2020,West,methanation,none,capaConv,0.0
+20th < 2025,West,methanation,none,capaConv,0.0
+20th < 2030,West,methanation,none,capaConv,0.0
+30th < 2035,West,methanation,none,capaConv,0.0
+30th < 2040,West,methanation,none,capaConv,6.086524432463161
+10th < 2020,East,methanation,none,commCapaConv,0.0
+20th < 2025,East,methanation,none,commCapaConv,0.0
+20th < 2030,East,methanation,none,commCapaConv,0.0
+30th < 2035,East,methanation,none,commCapaConv,0.0
+30th < 2040,East,methanation,none,commCapaConv,31.816966527655016
+10th < 2020,West,methanation,none,commCapaConv,0.0
+20th < 2025,West,methanation,none,commCapaConv,0.0
+20th < 2030,West,methanation,none,commCapaConv,0.0
+30th < 2035,West,methanation,none,commCapaConv,0.0
+30th < 2040,West,methanation,none,commCapaConv,6.08652443246316
+10th < 2020,East < EastNorth,solar < openspace,none,expConv,1.6394349792353602
+10th < 2020,East < EastSouth,solar < openspace,none,expConv,2.9424131737254404
+10th < 2020,West < WestNorth,solar < openspace,none,expConv,67.0
+10th < 2020,West < WestSouth,solar < openspace,none,expConv,50.0
+20th < 2025,East < EastNorth,solar < openspace,none,expConv,38.36056502076464
+20th < 2025,East < EastSouth,solar < openspace,none,expConv,60.05758682627456
+20th < 2025,West < WestNorth,solar < openspace,none,expConv,0.0
+20th < 2025,West < WestSouth,solar < openspace,none,expConv,0.0
+20th < 2030,East < EastNorth,solar < openspace,none,expConv,0.0
+20th < 2030,East < EastSouth,solar < openspace,none,expConv,0.0
+20th < 2030,West < WestNorth,solar < openspace,none,expConv,0.0
+20th < 2030,West < WestSouth,solar < openspace,none,expConv,0.0
+30th < 2035,East < EastNorth,solar < openspace,none,expConv,0.0
+30th < 2035,East < EastSouth,solar < openspace,none,expConv,0.0
+30th < 2035,West < WestNorth,solar < openspace,none,expConv,0.0
+30th < 2035,West < WestSouth,solar < openspace,none,expConv,0.0
+30th < 2040,East < EastNorth,solar < openspace,none,expConv,0.0
+30th < 2040,East < EastSouth,solar < openspace,none,expConv,0.0
+30th < 2040,West < WestNorth,solar < openspace,none,expConv,0.0
+30th < 2040,West < WestSouth,solar < openspace,none,expConv,0.0
+10th < 2020,East < EastNorth,solar < openspace,none,capaConv,1.6394349792353602
+20th < 2025,East < EastNorth,solar < openspace,none,capaConv,40.0
+20th < 2030,East < EastNorth,solar < openspace,none,capaConv,40.0
+30th < 2035,East < EastNorth,solar < openspace,none,capaConv,40.0
+30th < 2040,East < EastNorth,solar < openspace,none,capaConv,40.0
+10th < 2020,East < EastSouth,solar < openspace,none,capaConv,2.9424131737254404
+20th < 2025,East < EastSouth,solar < openspace,none,capaConv,63.0
+20th < 2030,East < EastSouth,solar < openspace,none,capaConv,63.0
+30th < 2035,East < EastSouth,solar < openspace,none,capaConv,63.0
+30th < 2040,East < EastSouth,solar < openspace,none,capaConv,63.0
+10th < 2020,West < WestNorth,solar < openspace,none,capaConv,67.0
+20th < 2025,West < WestNorth,solar < openspace,none,capaConv,67.0
+20th < 2030,West < WestNorth,solar < openspace,none,capaConv,67.0
+30th < 2035,West < WestNorth,solar < openspace,none,capaConv,67.0
+30th < 2040,West < WestNorth,solar < openspace,none,capaConv,67.0
+10th < 2020,West < WestSouth,solar < openspace,none,capaConv,50.0
+20th < 2025,West < WestSouth,solar < openspace,none,capaConv,50.0
+20th < 2030,West < WestSouth,solar < openspace,none,capaConv,50.0
+30th < 2035,West < WestSouth,solar < openspace,none,capaConv,50.0
+30th < 2040,West < WestSouth,solar < openspace,none,capaConv,50.0
+10th < 2020,East < EastNorth,solar < openspace,none,commCapaConv,1.6394349792353602
+20th < 2025,East < EastNorth,solar < openspace,none,commCapaConv,40.0
+20th < 2030,East < EastNorth,solar < openspace,none,commCapaConv,40.0
+30th < 2035,East < EastNorth,solar < openspace,none,commCapaConv,40.0
+30th < 2040,East < EastNorth,solar < openspace,none,commCapaConv,40.0
+10th < 2020,East < EastSouth,solar < openspace,none,commCapaConv,2.9424131737254404
+20th < 2025,East < EastSouth,solar < openspace,none,commCapaConv,63.0
+20th < 2030,East < EastSouth,solar < openspace,none,commCapaConv,63.0
+30th < 2035,East < EastSouth,solar < openspace,none,commCapaConv,63.0
+30th < 2040,East < EastSouth,solar < openspace,none,commCapaConv,63.0
+10th < 2020,West < WestNorth,solar < openspace,none,commCapaConv,67.0
+20th < 2025,West < WestNorth,solar < openspace,none,commCapaConv,67.0
+20th < 2030,West < WestNorth,solar < openspace,none,commCapaConv,67.0
+30th < 2035,West < WestNorth,solar < openspace,none,commCapaConv,67.0
+30th < 2040,West < WestNorth,solar < openspace,none,commCapaConv,67.0
+10th < 2020,West < WestSouth,solar < openspace,none,commCapaConv,50.0
+20th < 2025,West < WestSouth,solar < openspace,none,commCapaConv,50.0
+20th < 2030,West < WestSouth,solar < openspace,none,commCapaConv,50.0
+30th < 2035,West < WestSouth,solar < openspace,none,commCapaConv,50.0
+30th < 2040,West < WestSouth,solar < openspace,none,commCapaConv,50.0
+10th < 2020,East,heatpump < ground < individual,none,expConv,9.0
+10th < 2020,West,heatpump < ground < individual,none,expConv,9.0
+20th < 2025,East,heatpump < ground < individual,none,expConv,0.0
+20th < 2025,West,heatpump < ground < individual,none,expConv,0.0
+20th < 2030,East,heatpump < ground < individual,none,expConv,0.0
+20th < 2030,West,heatpump < ground < individual,none,expConv,0.0
+30th < 2035,East,heatpump < ground < individual,none,expConv,0.0
+30th < 2035,West,heatpump < ground < individual,none,expConv,0.0
+30th < 2040,East,heatpump < ground < individual,none,expConv,0.0
+30th < 2040,West,heatpump < ground < individual,none,expConv,0.0
+10th < 2020,East,heatpump < ground < individual,none,capaConv,9.0
+20th < 2025,East,heatpump < ground < individual,none,capaConv,9.000000000000004
+20th < 2030,East,heatpump < ground < individual,none,capaConv,9.0
+30th < 2035,East,heatpump < ground < individual,none,capaConv,8.999999999999998
+30th < 2040,East,heatpump < ground < individual,none,capaConv,9.0
+10th < 2020,West,heatpump < ground < individual,none,capaConv,9.0
+20th < 2025,West,heatpump < ground < individual,none,capaConv,9.0
+20th < 2030,West,heatpump < ground < individual,none,capaConv,9.0
+30th < 2035,West,heatpump < ground < individual,none,capaConv,9.0
+30th < 2040,West,heatpump < ground < individual,none,capaConv,9.0
+10th < 2020,East,heatpump < ground < individual,none,commCapaConv,9.0
+20th < 2025,East,heatpump < ground < individual,none,commCapaConv,9.000000000000004
+20th < 2030,East,heatpump < ground < individual,none,commCapaConv,9.0
+30th < 2035,East,heatpump < ground < individual,none,commCapaConv,8.999999999999998
+30th < 2040,East,heatpump < ground < individual,none,commCapaConv,9.0
+10th < 2020,West,heatpump < ground < individual,none,commCapaConv,9.0
+20th < 2025,West,heatpump < ground < individual,none,commCapaConv,9.0
+20th < 2030,West,heatpump < ground < individual,none,commCapaConv,9.0
+30th < 2035,West,heatpump < ground < individual,none,commCapaConv,9.0
+30th < 2040,West,heatpump < ground < individual,none,commCapaConv,9.0
+20th < 2025,East,gasPlant < ocgt < hydrogenFueled,none,expConv,0.0
+20th < 2030,East,gasPlant < ocgt < hydrogenFueled,none,expConv,0.0
+30th < 2035,East,gasPlant < ocgt < hydrogenFueled,none,expConv,8.012568347995746
+30th < 2040,East,gasPlant < ocgt < hydrogenFueled,none,expConv,93.0352123064439
+20th < 2025,West,gasPlant < ocgt < hydrogenFueled,none,expConv,0.0
+20th < 2030,West,gasPlant < ocgt < hydrogenFueled,none,expConv,0.0
+30th < 2035,West,gasPlant < ocgt < hydrogenFueled,none,expConv,9.542513769424959
+30th < 2040,West,gasPlant < ocgt < hydrogenFueled,none,expConv,52.895502983575184
+20th < 2025,East,gasPlant < ocgt < hydrogenFueled,none,capaConv,0.0
+20th < 2030,East,gasPlant < ocgt < hydrogenFueled,none,capaConv,0.0
+30th < 2035,East,gasPlant < ocgt < hydrogenFueled,none,capaConv,8.012568347995746
+30th < 2040,East,gasPlant < ocgt < hydrogenFueled,none,capaConv,101.04778065443963
+20th < 2025,West,gasPlant < ocgt < hydrogenFueled,none,capaConv,0.0
+20th < 2030,West,gasPlant < ocgt < hydrogenFueled,none,capaConv,0.0
+30th < 2035,West,gasPlant < ocgt < hydrogenFueled,none,capaConv,9.542513769424959
+30th < 2040,West,gasPlant < ocgt < hydrogenFueled,none,capaConv,62.43801675300014
+20th < 2025,East,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,0.0
+20th < 2030,East,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,0.0
+30th < 2035,East,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,8.012568347995746
+30th < 2040,East,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,101.04778065443962
+20th < 2025,West,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,0.0
+20th < 2030,West,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,0.0
+30th < 2035,West,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,9.542513769424959
+30th < 2040,West,gasPlant < ocgt < hydrogenFueled,none,commCapaConv,62.43801675300015
+10th < 2020,West,hydro,electricity,capaStOut,8.0
+20th < 2025,West,hydro,electricity,capaStOut,8.0
+20th < 2030,West,hydro,electricity,capaStOut,8.0
+30th < 2035,West,hydro,electricity,capaStOut,8.0
+30th < 2040,West,hydro,electricity,capaStOut,8.0
+10th < 2020,West,hydro,electricity,capaStSize,56.0
+20th < 2025,West,hydro,electricity,capaStSize,56.0
+20th < 2030,West,hydro,electricity,capaStSize,56.0
+30th < 2035,West,hydro,electricity,capaStSize,56.0
+30th < 2040,West,hydro,electricity,capaStSize,56.0
+10th < 2020,West,hydro,electricity,commCapaStOut,8.0
+20th < 2025,West,hydro,electricity,commCapaStOut,8.0
+20th < 2030,West,hydro,electricity,commCapaStOut,8.0
+30th < 2035,West,hydro,electricity,commCapaStOut,8.0
+30th < 2040,West,hydro,electricity,commCapaStOut,8.0
+10th < 2020,West,hydro,electricity,commCapaStSize,56.00000000000001
+20th < 2025,West,hydro,electricity,commCapaStSize,56.00000000000001
+20th < 2030,West,hydro,electricity,commCapaStSize,56.00000000000001
+30th < 2035,West,hydro,electricity,commCapaStSize,56.00000000000001
+30th < 2040,West,hydro,electricity,commCapaStSize,56.00000000000001
+10th < 2020,West,hydro,electricity,capaStIn,8.0
+20th < 2025,West,hydro,electricity,capaStIn,8.0
+20th < 2030,West,hydro,electricity,capaStIn,8.0
+30th < 2035,West,hydro,electricity,capaStIn,8.0
+30th < 2040,West,hydro,electricity,capaStIn,8.0
+10th < 2020,West,hydro,electricity,commCapaStIn,8.0
+20th < 2025,West,hydro,electricity,commCapaStIn,8.0
+20th < 2030,West,hydro,electricity,commCapaStIn,8.0
+30th < 2035,West,hydro,electricity,commCapaStIn,8.0
+30th < 2040,West,hydro,electricity,commCapaStIn,8.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,none,expConv,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,none,expConv,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,none,expConv,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,none,expConv,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,none,expConv,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,none,expConv,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,none,expConv,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,none,expConv,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,none,expConv,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,none,expConv,49.26329813269972
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,none,expConv,123.1261733995855
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,none,expConv,13.675723261686636
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,none,expConv,34.2344851606953
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,none,capaConv,49.26329813269972
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,none,capaConv,123.1261733995855
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,none,capaConv,13.675723261686636
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,none,capaConv,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,none,capaConv,34.2344851606953
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,none,commCapaConv,49.26329813269971
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,none,commCapaConv,123.1261733995855
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,none,commCapaConv,13.675723261686636
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,none,commCapaConv,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,none,commCapaConv,34.2344851606953
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,expStIn,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,expStIn,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStIn,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,capaStOut,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,expStSize,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,expStSize,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,expStOut,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,expStOut,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,capaStIn,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStOut,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,capaStSize,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,commCapaStSize,0.0
+10th < 2020,East < EastNorth,wind < offshore,none,expConv,40.0
+20th < 2025,East < EastNorth,wind < offshore,none,expConv,0.0
+20th < 2030,East < EastNorth,wind < offshore,none,expConv,0.0
+30th < 2035,East < EastNorth,wind < offshore,none,expConv,0.0
+30th < 2040,East < EastNorth,wind < offshore,none,expConv,0.0
+10th < 2020,West < WestNorth,wind < offshore,none,expConv,20.0
+20th < 2025,West < WestNorth,wind < offshore,none,expConv,0.0
+20th < 2030,West < WestNorth,wind < offshore,none,expConv,0.0
+30th < 2035,West < WestNorth,wind < offshore,none,expConv,0.0
+30th < 2040,West < WestNorth,wind < offshore,none,expConv,0.0
+10th < 2020,East < EastNorth,wind < offshore,none,capaConv,40.0
+20th < 2025,East < EastNorth,wind < offshore,none,capaConv,40.0
+20th < 2030,East < EastNorth,wind < offshore,none,capaConv,40.0
+30th < 2035,East < EastNorth,wind < offshore,none,capaConv,40.0
+30th < 2040,East < EastNorth,wind < offshore,none,capaConv,40.0
+10th < 2020,West < WestNorth,wind < offshore,none,capaConv,20.0
+20th < 2025,West < WestNorth,wind < offshore,none,capaConv,20.0
+20th < 2030,West < WestNorth,wind < offshore,none,capaConv,20.0
+30th < 2035,West < WestNorth,wind < offshore,none,capaConv,20.0
+30th < 2040,West < WestNorth,wind < offshore,none,capaConv,20.0
+10th < 2020,East < EastNorth,wind < offshore,none,commCapaConv,40.0
+20th < 2025,East < EastNorth,wind < offshore,none,commCapaConv,40.0
+20th < 2030,East < EastNorth,wind < offshore,none,commCapaConv,40.0
+30th < 2035,East < EastNorth,wind < offshore,none,commCapaConv,40.0
+30th < 2040,East < EastNorth,wind < offshore,none,commCapaConv,40.0
+10th < 2020,West < WestNorth,wind < offshore,none,commCapaConv,20.0
+20th < 2025,West < WestNorth,wind < offshore,none,commCapaConv,20.0
+20th < 2030,West < WestNorth,wind < offshore,none,commCapaConv,20.0
+30th < 2035,West < WestNorth,wind < offshore,none,commCapaConv,20.0
+30th < 2040,West < WestNorth,wind < offshore,none,commCapaConv,20.0
+10th < 2020,East,gasStorage,gas,capaStOut,216.0
+10th < 2020,West,gasStorage,gas,capaStOut,99.0
+20th < 2025,East,gasStorage,gas,capaStOut,216.0
+20th < 2025,West,gasStorage,gas,capaStOut,99.0
+20th < 2030,East,gasStorage,gas,capaStOut,216.0
+20th < 2030,West,gasStorage,gas,capaStOut,99.0
+30th < 2035,East,gasStorage,gas,capaStOut,216.0
+30th < 2035,West,gasStorage,gas,capaStOut,99.0
+30th < 2040,East,gasStorage,gas,capaStOut,216.0
+30th < 2040,West,gasStorage,gas,capaStOut,99.0
+10th < 2020,East,gasStorage,gas,capaStSize,230000.0
+10th < 2020,West,gasStorage,gas,capaStSize,150000.0
+20th < 2025,East,gasStorage,gas,capaStSize,230000.0
+20th < 2025,West,gasStorage,gas,capaStSize,150000.0
+20th < 2030,East,gasStorage,gas,capaStSize,230000.0
+20th < 2030,West,gasStorage,gas,capaStSize,150000.0
+30th < 2035,East,gasStorage,gas,capaStSize,230000.0
+30th < 2035,West,gasStorage,gas,capaStSize,150000.0
+30th < 2040,East,gasStorage,gas,capaStSize,230000.0
+30th < 2040,West,gasStorage,gas,capaStSize,150000.0
+10th < 2020,East,gasStorage,gas,commCapaStOut,216.0
+10th < 2020,West,gasStorage,gas,commCapaStOut,99.0
+20th < 2025,East,gasStorage,gas,commCapaStOut,216.0
+20th < 2025,West,gasStorage,gas,commCapaStOut,99.0
+20th < 2030,East,gasStorage,gas,commCapaStOut,216.0
+20th < 2030,West,gasStorage,gas,commCapaStOut,99.0
+30th < 2035,East,gasStorage,gas,commCapaStOut,216.0
+30th < 2035,West,gasStorage,gas,commCapaStOut,99.0
+30th < 2040,East,gasStorage,gas,commCapaStOut,216.0
+30th < 2040,West,gasStorage,gas,commCapaStOut,99.0
+10th < 2020,East,gasStorage,gas,commCapaStSize,230000.0
+10th < 2020,West,gasStorage,gas,commCapaStSize,150000.0
+20th < 2025,East,gasStorage,gas,commCapaStSize,230000.0
+20th < 2025,West,gasStorage,gas,commCapaStSize,150000.0
+20th < 2030,East,gasStorage,gas,commCapaStSize,230000.0
+20th < 2030,West,gasStorage,gas,commCapaStSize,150000.0
+30th < 2035,East,gasStorage,gas,commCapaStSize,230000.0
+30th < 2035,West,gasStorage,gas,commCapaStSize,150000.0
+30th < 2040,East,gasStorage,gas,commCapaStSize,230000.0
+30th < 2040,West,gasStorage,gas,commCapaStSize,150000.0
+10th < 2020,East,gasStorage,gas,capaStIn,240.0
+10th < 2020,West,gasStorage,gas,capaStIn,110.0
+20th < 2025,East,gasStorage,gas,capaStIn,240.0
+20th < 2025,West,gasStorage,gas,capaStIn,110.0
+20th < 2030,East,gasStorage,gas,capaStIn,240.0
+20th < 2030,West,gasStorage,gas,capaStIn,110.0
+30th < 2035,East,gasStorage,gas,capaStIn,240.0
+30th < 2035,West,gasStorage,gas,capaStIn,110.0
+30th < 2040,East,gasStorage,gas,capaStIn,240.0
+30th < 2040,West,gasStorage,gas,capaStIn,110.0
+10th < 2020,East,gasStorage,gas,commCapaStIn,240.0
+10th < 2020,West,gasStorage,gas,commCapaStIn,110.00000000000001
+20th < 2025,East,gasStorage,gas,commCapaStIn,240.0
+20th < 2025,West,gasStorage,gas,commCapaStIn,110.00000000000001
+20th < 2030,East,gasStorage,gas,commCapaStIn,240.0
+20th < 2030,West,gasStorage,gas,commCapaStIn,110.00000000000001
+30th < 2035,East,gasStorage,gas,commCapaStIn,240.0
+30th < 2035,West,gasStorage,gas,commCapaStIn,110.00000000000001
+30th < 2040,East,gasStorage,gas,commCapaStIn,240.0
+30th < 2040,West,gasStorage,gas,commCapaStIn,110.00000000000001
+10th < 2020,East,gasPlant < ccgt < CHP,none,expConv,5.4031896919851885
+20th < 2025,East,gasPlant < ccgt < CHP,none,expConv,0.0
+20th < 2030,East,gasPlant < ccgt < CHP,none,expConv,0.0
+30th < 2035,East,gasPlant < ccgt < CHP,none,expConv,0.0
+30th < 2040,East,gasPlant < ccgt < CHP,none,expConv,0.0
+10th < 2020,West,gasPlant < ccgt < CHP,none,expConv,0.8588021859649122
+20th < 2025,West,gasPlant < ccgt < CHP,none,expConv,0.0
+20th < 2030,West,gasPlant < ccgt < CHP,none,expConv,0.0
+30th < 2035,West,gasPlant < ccgt < CHP,none,expConv,0.0
+30th < 2040,West,gasPlant < ccgt < CHP,none,expConv,0.0
+10th < 2020,East,gasPlant < ccgt < CHP,none,capaConv,5.403189691985189
+20th < 2025,East,gasPlant < ccgt < CHP,none,capaConv,5.4031896919851885
+20th < 2030,East,gasPlant < ccgt < CHP,none,capaConv,5.4031896919851885
+30th < 2035,East,gasPlant < ccgt < CHP,none,capaConv,5.4031896919851885
+30th < 2040,East,gasPlant < ccgt < CHP,none,capaConv,5.4031896919851885
+10th < 2020,West,gasPlant < ccgt < CHP,none,capaConv,0.8588021859649122
+20th < 2025,West,gasPlant < ccgt < CHP,none,capaConv,0.8588021859649122
+20th < 2030,West,gasPlant < ccgt < CHP,none,capaConv,0.8588021859649122
+30th < 2035,West,gasPlant < ccgt < CHP,none,capaConv,0.8588021859649122
+30th < 2040,West,gasPlant < ccgt < CHP,none,capaConv,0.8588021859649122
+10th < 2020,East,gasPlant < ccgt < CHP,none,commCapaConv,5.403189691985189
+20th < 2025,East,gasPlant < ccgt < CHP,none,commCapaConv,5.4031896919851885
+20th < 2030,East,gasPlant < ccgt < CHP,none,commCapaConv,5.4031896919851885
+30th < 2035,East,gasPlant < ccgt < CHP,none,commCapaConv,5.4031896919851885
+30th < 2040,East,gasPlant < ccgt < CHP,none,commCapaConv,0.622963740231241
+10th < 2020,West,gasPlant < ccgt < CHP,none,commCapaConv,0.8588021859649122
+20th < 2025,West,gasPlant < ccgt < CHP,none,commCapaConv,0.8588021859649122
+20th < 2030,West,gasPlant < ccgt < CHP,none,commCapaConv,0.8588021859649122
+30th < 2035,West,gasPlant < ccgt < CHP,none,commCapaConv,0.8588021859649122
+30th < 2040,West,gasPlant < ccgt < CHP,none,commCapaConv,0.0
+10th < 2020,East,gasBoiler,none,expConv,122.53408312123733
+20th < 2025,East,gasBoiler,none,expConv,0.0
+20th < 2030,East,gasBoiler,none,expConv,0.0
+30th < 2035,East,gasBoiler,none,expConv,0.0
+30th < 2040,East,gasBoiler,none,expConv,0.0
+10th < 2020,West,gasBoiler,none,expConv,72.55705019664185
+20th < 2025,West,gasBoiler,none,expConv,0.342285444992914
+20th < 2030,West,gasBoiler,none,expConv,0.0
+30th < 2035,West,gasBoiler,none,expConv,0.0
+30th < 2040,West,gasBoiler,none,expConv,0.0
+10th < 2020,East,gasBoiler,none,capaConv,142.53408312123733
+20th < 2025,East,gasBoiler,none,capaConv,138.53408312123733
+20th < 2030,East,gasBoiler,none,capaConv,138.53408312123733
+30th < 2035,East,gasBoiler,none,capaConv,122.53408312123733
+30th < 2040,East,gasBoiler,none,capaConv,122.53408312123733
+10th < 2020,West,gasBoiler,none,capaConv,100.55705019664185
+20th < 2025,West,gasBoiler,none,capaConv,84.89933564163478
+20th < 2030,West,gasBoiler,none,capaConv,84.89933564163478
+30th < 2035,West,gasBoiler,none,capaConv,72.89933564163478
+30th < 2040,West,gasBoiler,none,capaConv,72.89933564163478
+10th < 2020,East,gasBoiler,none,commCapaConv,142.53408312123733
+20th < 2025,East,gasBoiler,none,commCapaConv,120.94783020716561
+20th < 2030,East,gasBoiler,none,commCapaConv,94.48309841974894
+30th < 2035,East,gasBoiler,none,commCapaConv,67.16405969860182
+30th < 2040,East,gasBoiler,none,commCapaConv,29.15634763079142
+10th < 2020,West,gasBoiler,none,commCapaConv,100.55705019664185
+20th < 2025,West,gasBoiler,none,commCapaConv,80.47005479432413
+20th < 2030,West,gasBoiler,none,commCapaConv,62.27347964255942
+30th < 2035,West,gasBoiler,none,commCapaConv,43.25664950485576
+30th < 2040,West,gasBoiler,none,commCapaConv,17.119662445483566
+10th < 2020,East,gasPlant < ocgt < gasFueled,none,expConv,136.86805835261987
+20th < 2025,East,gasPlant < ocgt < gasFueled,none,expConv,0.0
+20th < 2030,East,gasPlant < ocgt < gasFueled,none,expConv,0.0
+30th < 2035,East,gasPlant < ocgt < gasFueled,none,expConv,0.0
+30th < 2040,East,gasPlant < ocgt < gasFueled,none,expConv,0.0
+10th < 2020,West,gasPlant < ocgt < gasFueled,none,expConv,144.56784974786905
+20th < 2025,West,gasPlant < ocgt < gasFueled,none,expConv,0.0
+20th < 2030,West,gasPlant < ocgt < gasFueled,none,expConv,0.0
+30th < 2035,West,gasPlant < ocgt < gasFueled,none,expConv,0.0
+30th < 2040,West,gasPlant < ocgt < gasFueled,none,expConv,0.0
+10th < 2020,East,gasPlant < ocgt < gasFueled,none,capaConv,136.86805835261987
+20th < 2025,East,gasPlant < ocgt < gasFueled,none,capaConv,136.86805835261987
+20th < 2030,East,gasPlant < ocgt < gasFueled,none,capaConv,136.86805835261987
+30th < 2035,East,gasPlant < ocgt < gasFueled,none,capaConv,136.86805835261987
+30th < 2040,East,gasPlant < ocgt < gasFueled,none,capaConv,136.86805835261987
+10th < 2020,West,gasPlant < ocgt < gasFueled,none,capaConv,144.56784974786905
+20th < 2025,West,gasPlant < ocgt < gasFueled,none,capaConv,144.56784974786905
+20th < 2030,West,gasPlant < ocgt < gasFueled,none,capaConv,144.56784974786905
+30th < 2035,West,gasPlant < ocgt < gasFueled,none,capaConv,144.56784974786905
+30th < 2040,West,gasPlant < ocgt < gasFueled,none,capaConv,144.56784974786905
+10th < 2020,East,gasPlant < ocgt < gasFueled,none,commCapaConv,136.86805835261987
+20th < 2025,East,gasPlant < ocgt < gasFueled,none,commCapaConv,135.7073139592362
+20th < 2030,East,gasPlant < ocgt < gasFueled,none,commCapaConv,128.4283596112463
+30th < 2035,East,gasPlant < ocgt < gasFueled,none,commCapaConv,114.23957770905595
+30th < 2040,East,gasPlant < ocgt < gasFueled,none,commCapaConv,0.0
+10th < 2020,West,gasPlant < ocgt < gasFueled,none,commCapaConv,144.56784974786905
+20th < 2025,West,gasPlant < ocgt < gasFueled,none,commCapaConv,144.56784974786905
+20th < 2030,West,gasPlant < ocgt < gasFueled,none,commCapaConv,144.56784974786905
+30th < 2035,West,gasPlant < ocgt < gasFueled,none,commCapaConv,107.22651880409455
+30th < 2040,West,gasPlant < ocgt < gasFueled,none,commCapaConv,0.0
+10th < 2020,East,electrolysis,none,expConv,0.0
+10th < 2020,West,electrolysis,none,expConv,0.0
+20th < 2025,East,electrolysis,none,expConv,0.0
+20th < 2025,West,electrolysis,none,expConv,0.0
+20th < 2030,East,electrolysis,none,expConv,0.0
+20th < 2030,West,electrolysis,none,expConv,0.0
+30th < 2035,East,electrolysis,none,expConv,20.210602217315426
+30th < 2035,West,electrolysis,none,expConv,28.56285086747906
+30th < 2040,East,electrolysis,none,expConv,14.387223724721427
+30th < 2040,West,electrolysis,none,expConv,52.305932548726986
+10th < 2020,East,electrolysis,none,capaConv,0.0
+20th < 2025,East,electrolysis,none,capaConv,0.0
+20th < 2030,East,electrolysis,none,capaConv,0.0
+30th < 2035,East,electrolysis,none,capaConv,20.210602217315426
+30th < 2040,East,electrolysis,none,capaConv,34.59782594203685
+10th < 2020,West,electrolysis,none,capaConv,0.0
+20th < 2025,West,electrolysis,none,capaConv,0.0
+20th < 2030,West,electrolysis,none,capaConv,0.0
+30th < 2035,West,electrolysis,none,capaConv,28.56285086747906
+30th < 2040,West,electrolysis,none,capaConv,80.86878341620604
+10th < 2020,East,electrolysis,none,commCapaConv,0.0
+20th < 2025,East,electrolysis,none,commCapaConv,0.0
+20th < 2030,East,electrolysis,none,commCapaConv,0.0
+30th < 2035,East,electrolysis,none,commCapaConv,20.210602217315426
+30th < 2040,East,electrolysis,none,commCapaConv,34.59782594203685
+10th < 2020,West,electrolysis,none,commCapaConv,0.0
+20th < 2025,West,electrolysis,none,commCapaConv,0.0
+20th < 2030,West,electrolysis,none,commCapaConv,0.0
+30th < 2035,West,electrolysis,none,commCapaConv,28.56285086747906
+30th < 2040,West,electrolysis,none,commCapaConv,80.86878341620604
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStOut,21.22086826244047
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStOut,23.508999102592426
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStOut,25.99736406261539
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStOut,25.99736406261539
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStOut,27.58073522586701
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStOut,62.98262680778877
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStOut,62.98262680778877
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStOut,62.98262680778877
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStOut,62.98262680778877
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStOut,66.38997947251127
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStOut,22.40976066041209
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStOut,25.489180316212263
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStOut,25.489180316212263
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStOut,25.489180316212263
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStOut,25.489180316212263
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStOut,33.53146352876399
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStOut,63.536935792854635
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStOut,63.536935792854635
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStOut,63.536935792854635
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStOut,63.536935792854635
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStSize,254.9513564820079
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStSize,254.9513564820079
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStSize,254.9513564820079
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStSize,254.9513564820079
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStSize,474.2494861286026
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStSize,628.8852131923852
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStSize,628.8852131923852
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStSize,628.8852131923852
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStSize,628.8852131923852
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStSize,1186.1113738097717
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStSize,213.07534005535857
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStSize,213.07534005535857
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStSize,213.07534005535857
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStSize,213.07534005535857
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStSize,232.65826025900265
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStSize,376.07960952718
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStSize,376.07960952718
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStSize,376.07960952718
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStSize,376.07960952718
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStSize,472.0576959779228
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,21.22086826244047
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,23.508999102592426
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,25.99736406261539
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,17.211340206185568
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,27.58073522586701
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,62.98262680778877
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,57.09615431169244
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,60.043091120680515
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,49.37079825499982
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,66.38997947251127
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,22.40976066041209
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,25.489180316212263
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,20.500854118062644
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,15.400338654145179
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStOut,17.074742268041238
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,33.53146352876399
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,63.536935792854635
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,50.67990116626198
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,37.92990116626196
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStOut,42.68814432989691
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,expStSize,254.9513564820079
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,expStSize,219.2981296465947
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,expStSize,628.8852131923852
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,expStSize,557.2261606173865
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,expStSize,213.0753400553586
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,expStSize,19.58292020364405
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,expStSize,376.07960952718
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,expStSize,0.0
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,expStSize,95.97808645074275
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,expStOut,21.22086826244047
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,expStOut,2.2881308401519576
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,expStOut,2.488364960022963
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,expStOut,1.5833711632516199
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,expStOut,62.98262680778877
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,expStOut,3.4073526647225023
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,expStOut,22.40976066041209
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,expStOut,3.079419655800173
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,expStOut,33.53146352876399
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,expStOut,30.005472264090642
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,expStOut,0.0
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,254.9513564820079
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,254.9513564820079
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,254.9513564820079
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,254.9513564820079
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,474.2494861286026
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,628.8852131923852
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,628.8852131923852
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,628.8852131923852
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,628.8852131923852
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,1186.1113738097717
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,213.07534005535857
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,213.07534005535857
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,213.07534005535857
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,213.07534005535857
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStSize,232.65826025900265
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,376.07960952718
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,376.07960952718
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,376.07960952718
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,376.07960952718
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStSize,472.0576959779228
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStIn,6.50878686725
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStIn,6.50878686725
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStIn,6.50878686725
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStIn,6.50878686725
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,capaStIn,7.0235617665
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStIn,16.2719671675
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStIn,16.2719671675
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStIn,16.2719671675
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStIn,16.2719671675
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,capaStIn,17.5589044175
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStIn,2.2339674455
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStIn,2.2339674455
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStIn,2.2339674455
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStIn,2.2339674455
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,capaStIn,2.2339674455
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStIn,5.4140501180000005
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStIn,5.4140501180000005
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStIn,5.4140501180000005
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStIn,5.4140501180000005
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,capaStIn,5.583750842250001
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,expStIn,6.50878686725
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,expStIn,0.5147748992499999
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,expStIn,16.2719671675
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,expStIn,1.2869372499999976
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,expStIn,2.2339674455
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,expStIn,5.4140501180000005
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,expStIn,0.0
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,expStIn,0.16970072425000016
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,6.50878686725
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,6.50779875775
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,6.389875127797083
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,5.935064963
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,7.0235617665
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,16.2719671675
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,16.2719671675
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,15.953260497499999
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,14.837662407500002
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,17.5589044175
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,2.2339674455
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,2.13344208575
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,2.13344208575
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,2.050022953
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,commCapaStIn,2.233500337
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,5.4140501180000005
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,5.4140501180000005
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,5.3336052145
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,5.3336052145
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,commCapaStIn,5.583750842250001
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,none,expConv,62.61910930881514
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,none,expConv,0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,none,expConv,4.573717881478203
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,none,expConv,159.68061772949824
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,none,expConv,0.0
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,none,capaConv,4.573717881478203
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,none,capaConv,0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,none,capaConv,62.61910930881514
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,none,capaConv,222.29972703831336
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,none,capaConv,0.0
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,none,commCapaConv,4.573717881478203
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,none,commCapaConv,62.61910930881515
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,none,commCapaConv,222.29972703831336
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,none,commCapaConv,0.0
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,expStIn,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,expStIn,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,expStIn,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,expStIn,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,expStIn,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,expStIn,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,expStIn,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,expStIn,10.709391876608287
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,expStIn,0.9366809557703183
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,expStIn,25.469708459927674
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,commCapaStIn,10.709391876608287
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,commCapaStIn,0.9366809557703184
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,commCapaStIn,36.17910033653596
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,capaStOut,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,capaStOut,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,capaStOut,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,capaStOut,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,capaStOut,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,capaStOut,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,capaStOut,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,capaStOut,10.709391876608287
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,capaStOut,0.9366809557703183
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,capaStOut,36.17910033653596
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,expStSize,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,expStSize,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,expStSize,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,expStSize,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,expStSize,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,expStSize,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,expStSize,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,expStSize,40.076246931161364
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,expStSize,3.59595574635736
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,expStSize,115.7706764439541
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,expStOut,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,expStOut,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,expStOut,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,expStOut,0.0
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,expStOut,0.9366809557703183
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,expStOut,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,expStOut,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,expStOut,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,expStOut,10.709391876608287
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,expStOut,25.469708459927674
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,capaStIn,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,capaStIn,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,capaStIn,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,capaStIn,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,capaStIn,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,capaStIn,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,capaStIn,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,capaStIn,10.709391876608287
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,capaStIn,0.9366809557703183
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,capaStIn,36.17910033653596
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,commCapaStOut,10.709391876608287
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,commCapaStOut,0.9366809557703183
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,commCapaStOut,36.17910033653596
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,capaStSize,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,capaStSize,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,capaStSize,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,capaStSize,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,capaStSize,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,capaStSize,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,capaStSize,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,capaStSize,40.076246931161364
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,capaStSize,3.59595574635736
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,capaStSize,155.84692337511547
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,commCapaStSize,0.0
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,commCapaStSize,0.0
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,commCapaStSize,0.0
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,commCapaStSize,0.0
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,commCapaStSize,0.0
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,commCapaStSize,0.0
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,commCapaStSize,0.0
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,commCapaStSize,40.07624693116137
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,commCapaStSize,3.59595574635736
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,commCapaStSize,155.84692337511547
+10th < 2020,East,fuelCell,none,expConv,0.0
+10th < 2020,West,fuelCell,none,expConv,0.0
+20th < 2025,East,fuelCell,none,expConv,0.0
+20th < 2025,West,fuelCell,none,expConv,0.0
+20th < 2030,East,fuelCell,none,expConv,0.0
+20th < 2030,West,fuelCell,none,expConv,0.0
+30th < 2035,East,fuelCell,none,expConv,0.0
+30th < 2035,West,fuelCell,none,expConv,0.0
+30th < 2040,East,fuelCell,none,expConv,0.0
+30th < 2040,West,fuelCell,none,expConv,0.0
+10th < 2020,East,fuelCell,none,capaConv,0.0
+20th < 2025,East,fuelCell,none,capaConv,0.0
+10th < 2020,West,fuelCell,none,capaConv,0.0
+20th < 2025,West,fuelCell,none,capaConv,0.0
+20th < 2030,East,fuelCell,none,capaConv,0.0
+20th < 2030,West,fuelCell,none,capaConv,0.0
+30th < 2035,East,fuelCell,none,capaConv,0.0
+30th < 2035,West,fuelCell,none,capaConv,0.0
+30th < 2040,East,fuelCell,none,capaConv,0.0
+30th < 2040,West,fuelCell,none,capaConv,0.0
+10th < 2020,East,fuelCell,none,commCapaConv,0.0
+20th < 2025,East,fuelCell,none,commCapaConv,0.0
+10th < 2020,West,fuelCell,none,commCapaConv,0.0
+20th < 2025,West,fuelCell,none,commCapaConv,0.0
+20th < 2030,East,fuelCell,none,commCapaConv,0.0
+20th < 2030,West,fuelCell,none,commCapaConv,0.0
+30th < 2035,East,fuelCell,none,commCapaConv,0.0
+30th < 2035,West,fuelCell,none,commCapaConv,0.0
+30th < 2040,East,fuelCell,none,commCapaConv,0.0
+30th < 2040,West,fuelCell,none,commCapaConv,0.0
+10th < 2020,East < EastNorth,wind < onshore < lowFLH,none,expConv,0.0
+10th < 2020,East < EastSouth,wind < onshore < lowFLH,none,expConv,0.0
+10th < 2020,West < WestNorth,wind < onshore < lowFLH,none,expConv,0.0
+10th < 2020,West < WestSouth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2025,East < EastNorth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2025,East < EastSouth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2025,West < WestNorth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2025,West < WestSouth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2030,East < EastNorth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2030,East < EastSouth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2030,West < WestNorth,wind < onshore < lowFLH,none,expConv,0.0
+20th < 2030,West < WestSouth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2035,East < EastNorth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2035,East < EastSouth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2035,West < WestNorth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2035,West < WestSouth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2040,East < EastNorth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2040,East < EastSouth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2040,West < WestNorth,wind < onshore < lowFLH,none,expConv,0.0
+30th < 2040,West < WestSouth,wind < onshore < lowFLH,none,expConv,0.0
+10th < 2020,East < EastNorth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2025,East < EastNorth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2030,East < EastNorth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2035,East < EastNorth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2040,East < EastNorth,wind < onshore < lowFLH,none,capaConv,0.0
+10th < 2020,East < EastSouth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2025,East < EastSouth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2030,East < EastSouth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2035,East < EastSouth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2040,East < EastSouth,wind < onshore < lowFLH,none,capaConv,0.0
+10th < 2020,West < WestNorth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2025,West < WestNorth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2030,West < WestNorth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2035,West < WestNorth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2040,West < WestNorth,wind < onshore < lowFLH,none,capaConv,0.0
+10th < 2020,West < WestSouth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2025,West < WestSouth,wind < onshore < lowFLH,none,capaConv,0.0
+20th < 2030,West < WestSouth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2035,West < WestSouth,wind < onshore < lowFLH,none,capaConv,0.0
+30th < 2040,West < WestSouth,wind < onshore < lowFLH,none,capaConv,0.0
+10th < 2020,East < EastNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2025,East < EastNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2030,East < EastNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2035,East < EastNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2040,East < EastNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+10th < 2020,East < EastSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2025,East < EastSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2030,East < EastSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2035,East < EastSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2040,East < EastSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+10th < 2020,West < WestNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2025,West < WestNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2030,West < WestNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2035,West < WestNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2040,West < WestNorth,wind < onshore < lowFLH,none,commCapaConv,0.0
+10th < 2020,West < WestSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2025,West < WestSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+20th < 2030,West < WestSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2035,West < WestSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+30th < 2040,West < WestSouth,wind < onshore < lowFLH,none,commCapaConv,0.0
+10th < 2020,East,heatpump < ground < network,none,expConv,5.079425809162823
+10th < 2020,West,heatpump < ground < network,none,expConv,1.6371391702688198
+20th < 2025,East,heatpump < ground < network,none,expConv,0.0
+20th < 2025,West,heatpump < ground < network,none,expConv,0.031456213628221485
+20th < 2030,East,heatpump < ground < network,none,expConv,0.013031858249632489
+20th < 2030,West,heatpump < ground < network,none,expConv,0.0
+30th < 2035,East,heatpump < ground < network,none,expConv,0.13406978057023244
+30th < 2035,West,heatpump < ground < network,none,expConv,0.0
+30th < 2040,East,heatpump < ground < network,none,expConv,1.3680501257469095
+30th < 2040,West,heatpump < ground < network,none,expConv,0.20654405710660884
+10th < 2020,East,heatpump < ground < network,none,capaConv,5.079425809162823
+20th < 2025,East,heatpump < ground < network,none,capaConv,5.079425809162823
+20th < 2030,East,heatpump < ground < network,none,capaConv,5.0924576674124555
+30th < 2035,East,heatpump < ground < network,none,capaConv,5.226527447982688
+30th < 2040,East,heatpump < ground < network,none,capaConv,6.594577573729597
+10th < 2020,West,heatpump < ground < network,none,capaConv,1.63713917026882
+20th < 2025,West,heatpump < ground < network,none,capaConv,1.6685953838970415
+20th < 2030,West,heatpump < ground < network,none,capaConv,1.6685953838970415
+30th < 2035,West,heatpump < ground < network,none,capaConv,1.6685953838970415
+30th < 2040,West,heatpump < ground < network,none,capaConv,1.8751394410036504
+10th < 2020,East,heatpump < ground < network,none,commCapaConv,5.079425809162823
+20th < 2025,East,heatpump < ground < network,none,commCapaConv,5.079425809162823
+20th < 2030,East,heatpump < ground < network,none,commCapaConv,5.0924576674124555
+30th < 2035,East,heatpump < ground < network,none,commCapaConv,5.226527447982688
+30th < 2040,East,heatpump < ground < network,none,commCapaConv,6.594577573729597
+10th < 2020,West,heatpump < ground < network,none,commCapaConv,1.63713917026882
+20th < 2025,West,heatpump < ground < network,none,commCapaConv,1.6685953838970415
+20th < 2030,West,heatpump < ground < network,none,commCapaConv,1.6685953838970415
+30th < 2035,West,heatpump < ground < network,none,commCapaConv,1.6685953838970415
+30th < 2040,West,heatpump < ground < network,none,commCapaConv,1.8751394410036504
+10th < 2020,East < EastNorth,wind < onshore < highFLH,none,expConv,29.70158227157039
+10th < 2020,East < EastSouth,wind < onshore < highFLH,none,expConv,28.61693971326811
+10th < 2020,West < WestNorth,wind < onshore < highFLH,none,expConv,65.0
+10th < 2020,West < WestSouth,wind < onshore < highFLH,none,expConv,47.89163978778842
+20th < 2025,East < EastNorth,wind < onshore < highFLH,none,expConv,0.0
+20th < 2025,East < EastSouth,wind < onshore < highFLH,none,expConv,0.0
+20th < 2025,West < WestNorth,wind < onshore < highFLH,none,expConv,0.0
+20th < 2025,West < WestSouth,wind < onshore < highFLH,none,expConv,1.5874215012432629
+20th < 2030,East < EastNorth,wind < onshore < highFLH,none,expConv,1.684744949366042
+20th < 2030,East < EastSouth,wind < onshore < highFLH,none,expConv,2.9154236324236678
+20th < 2030,West < WestNorth,wind < onshore < highFLH,none,expConv,0.0
+20th < 2030,West < WestSouth,wind < onshore < highFLH,none,expConv,6.581048875921667
+30th < 2035,East < EastNorth,wind < onshore < highFLH,none,expConv,40.436984579259
+30th < 2035,East < EastSouth,wind < onshore < highFLH,none,expConv,7.065462853881215
+30th < 2035,West < WestNorth,wind < onshore < highFLH,none,expConv,0.0
+30th < 2035,West < WestSouth,wind < onshore < highFLH,none,expConv,3.9398898350466496
+30th < 2040,East < EastNorth,wind < onshore < highFLH,none,expConv,3.1766881998045733
+30th < 2040,East < EastSouth,wind < onshore < highFLH,none,expConv,1.4021738004270077
+30th < 2040,West < WestNorth,wind < onshore < highFLH,none,expConv,0.0
+30th < 2040,West < WestSouth,wind < onshore < highFLH,none,expConv,0.0
+10th < 2020,East < EastNorth,wind < onshore < highFLH,none,capaConv,29.70158227157039
+20th < 2025,East < EastNorth,wind < onshore < highFLH,none,capaConv,29.70158227157039
+20th < 2030,East < EastNorth,wind < onshore < highFLH,none,capaConv,31.386327220936433
+30th < 2035,East < EastNorth,wind < onshore < highFLH,none,capaConv,71.82331180019543
+30th < 2040,East < EastNorth,wind < onshore < highFLH,none,capaConv,75.0
+10th < 2020,East < EastSouth,wind < onshore < highFLH,none,capaConv,28.61693971326811
+20th < 2025,East < EastSouth,wind < onshore < highFLH,none,capaConv,28.61693971326811
+20th < 2030,East < EastSouth,wind < onshore < highFLH,none,capaConv,31.532363345691778
+30th < 2035,East < EastSouth,wind < onshore < highFLH,none,capaConv,38.59782619957299
+30th < 2040,East < EastSouth,wind < onshore < highFLH,none,capaConv,40.0
+10th < 2020,West < WestNorth,wind < onshore < highFLH,none,capaConv,65.0
+20th < 2025,West < WestNorth,wind < onshore < highFLH,none,capaConv,65.0
+20th < 2030,West < WestNorth,wind < onshore < highFLH,none,capaConv,65.0
+30th < 2035,West < WestNorth,wind < onshore < highFLH,none,capaConv,65.0
+30th < 2040,West < WestNorth,wind < onshore < highFLH,none,capaConv,65.0
+10th < 2020,West < WestSouth,wind < onshore < highFLH,none,capaConv,47.89163978778842
+20th < 2025,West < WestSouth,wind < onshore < highFLH,none,capaConv,49.47906128903169
+20th < 2030,West < WestSouth,wind < onshore < highFLH,none,capaConv,56.06011016495336
+30th < 2035,West < WestSouth,wind < onshore < highFLH,none,capaConv,60.0
+30th < 2040,West < WestSouth,wind < onshore < highFLH,none,capaConv,60.0
+10th < 2020,East < EastNorth,wind < onshore < highFLH,none,commCapaConv,29.70158227157039
+20th < 2025,East < EastNorth,wind < onshore < highFLH,none,commCapaConv,29.70158227157039
+20th < 2030,East < EastNorth,wind < onshore < highFLH,none,commCapaConv,31.386327220936433
+30th < 2035,East < EastNorth,wind < onshore < highFLH,none,commCapaConv,71.82331180019543
+30th < 2040,East < EastNorth,wind < onshore < highFLH,none,commCapaConv,75.0
+10th < 2020,East < EastSouth,wind < onshore < highFLH,none,commCapaConv,28.61693971326811
+20th < 2025,East < EastSouth,wind < onshore < highFLH,none,commCapaConv,28.61693971326811
+20th < 2030,East < EastSouth,wind < onshore < highFLH,none,commCapaConv,31.532363345691778
+30th < 2035,East < EastSouth,wind < onshore < highFLH,none,commCapaConv,38.59782619957299
+30th < 2040,East < EastSouth,wind < onshore < highFLH,none,commCapaConv,40.0
+10th < 2020,West < WestNorth,wind < onshore < highFLH,none,commCapaConv,65.0
+20th < 2025,West < WestNorth,wind < onshore < highFLH,none,commCapaConv,65.0
+20th < 2030,West < WestNorth,wind < onshore < highFLH,none,commCapaConv,65.0
+30th < 2035,West < WestNorth,wind < onshore < highFLH,none,commCapaConv,65.0
+30th < 2040,West < WestNorth,wind < onshore < highFLH,none,commCapaConv,65.0
+10th < 2020,West < WestSouth,wind < onshore < highFLH,none,commCapaConv,47.89163978778842
+20th < 2025,West < WestSouth,wind < onshore < highFLH,none,commCapaConv,49.479061289031684
+20th < 2030,West < WestSouth,wind < onshore < highFLH,none,commCapaConv,56.06011016495335
+30th < 2035,West < WestSouth,wind < onshore < highFLH,none,commCapaConv,60.0
+30th < 2040,West < WestSouth,wind < onshore < highFLH,none,commCapaConv,60.0
+10th < 2020,East,autoReforming,electricity,use,-0.0
+10th < 2020,East,autoReforming,gas < naturalGas,use,-0.0
+20th < 2025,East,autoReforming,electricity,use,-0.0
+20th < 2025,East,autoReforming,gas < naturalGas,use,-0.0
+20th < 2030,East,autoReforming,electricity,use,-0.0
+20th < 2030,East,autoReforming,gas < naturalGas,use,-0.0
+30th < 2035,East,autoReforming,electricity,use,-0.0
+30th < 2035,East,autoReforming,gas < naturalGas,use,-0.0
+10th < 2020,West,autoReforming,electricity,use,-0.0
+10th < 2020,West,autoReforming,gas < naturalGas,use,-0.0
+20th < 2025,West,autoReforming,electricity,use,-0.0
+20th < 2025,West,autoReforming,gas < naturalGas,use,-0.0
+20th < 2030,West,autoReforming,electricity,use,-0.0
+20th < 2030,West,autoReforming,gas < naturalGas,use,-0.0
+30th < 2035,West,autoReforming,electricity,use,-0.0
+30th < 2035,West,autoReforming,gas < naturalGas,use,-0.0
+30th < 2040,East,autoReforming,electricity,use,-0.0
+30th < 2040,East,autoReforming,gas < naturalGas,use,-0.0
+30th < 2040,West,autoReforming,electricity,use,-0.0
+30th < 2040,West,autoReforming,gas < naturalGas,use,-0.0
+10th < 2020,East,coalPlant,coal,use,-40.618515738406565
+20th < 2025,East,coalPlant,coal,use,-0.995066429307946
+20th < 2030,East,coalPlant,coal,use,-0.0
+10th < 2020,East,heatpump < air,electricity,use,-29.597524959550906
+20th < 2025,East,heatpump < air,electricity,use,-28.963587417822303
+20th < 2030,East,heatpump < air,electricity,use,-26.959378053693854
+30th < 2035,East,heatpump < air,electricity,use,-23.667067258291432
+30th < 2040,East,heatpump < air,electricity,use,-12.8311706635098
+10th < 2020,West,heatpump < air,electricity,use,-20.82942849455736
+20th < 2025,West,heatpump < air,electricity,use,-19.797373795073593
+20th < 2030,West,heatpump < air,electricity,use,-17.64100865724149
+30th < 2035,West,heatpump < air,electricity,use,-13.563961204471834
+30th < 2040,West,heatpump < air,electricity,use,-7.133136224102513
+10th < 2020,East,methanation,gas < hydrogen,use,-0.0
+20th < 2025,East,methanation,gas < hydrogen,use,-0.0
+20th < 2030,East,methanation,gas < hydrogen,use,-0.0
+30th < 2035,East,methanation,gas < hydrogen,use,-0.0
+30th < 2040,East,methanation,gas < hydrogen,use,-19.853649744909625
+10th < 2020,West,methanation,gas < hydrogen,use,-0.0
+20th < 2025,West,methanation,gas < hydrogen,use,-0.0
+20th < 2030,West,methanation,gas < hydrogen,use,-0.0
+30th < 2035,West,methanation,gas < hydrogen,use,-0.0
+30th < 2040,West,methanation,gas < hydrogen,use,-2.4284060766981472
+10th < 2020,East,heatpump < ground < individual,electricity,use,-55.95627343442976
+20th < 2025,East,heatpump < ground < individual,electricity,use,-53.758083422145475
+20th < 2030,East,heatpump < ground < individual,electricity,use,-51.72947804964844
+30th < 2035,East,heatpump < ground < individual,electricity,use,-49.10478469482526
+30th < 2040,East,heatpump < ground < individual,electricity,use,-35.657558545769
+10th < 2020,West,heatpump < ground < individual,electricity,use,-46.551727560036
+20th < 2025,West,heatpump < ground < individual,electricity,use,-44.45716170625429
+20th < 2030,West,heatpump < ground < individual,electricity,use,-42.16971748367529
+30th < 2035,West,heatpump < ground < individual,electricity,use,-39.857916921473205
+30th < 2040,West,heatpump < ground < individual,electricity,use,-31.624242574176623
+20th < 2025,East,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-0.0
+20th < 2030,East,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-0.0
+30th < 2035,East,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-37.4145409802216
+30th < 2040,East,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-58.165575987407706
+20th < 2025,West,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-0.0
+20th < 2030,West,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-0.0
+30th < 2035,West,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-44.8398972671765
+30th < 2040,West,gasPlant < ocgt < hydrogenFueled,gas < hydrogen,use,-125.49644365695812
+10th < 2020,East,gasPlant < ccgt < CHP,gas < naturalGas,use,-35.97197919882952
+20th < 2025,East,gasPlant < ccgt < CHP,gas < naturalGas,use,-32.82515084296528
+20th < 2030,East,gasPlant < ccgt < CHP,gas < naturalGas,use,-31.664833882188805
+30th < 2035,East,gasPlant < ccgt < CHP,gas < naturalGas,use,-21.867410455670836
+30th < 2040,East,gasPlant < ccgt < CHP,gas < naturalGas,use,-0.03665795576331457
+10th < 2020,West,gasPlant < ccgt < CHP,gas < naturalGas,use,-5.634419498745673
+20th < 2025,West,gasPlant < ccgt < CHP,gas < naturalGas,use,-5.230711965918353
+20th < 2030,West,gasPlant < ccgt < CHP,gas < naturalGas,use,-4.9755329816674685
+30th < 2035,West,gasPlant < ccgt < CHP,gas < naturalGas,use,-3.467648641572244
+30th < 2040,West,gasPlant < ccgt < CHP,gas < naturalGas,use,-0.0
+10th < 2020,East,gasBoiler,gas < naturalGas,use,-221.4171684884839
+20th < 2025,East,gasBoiler,gas < naturalGas,use,-167.51918318715659
+20th < 2030,East,gasBoiler,gas < naturalGas,use,-116.24407538947607
+30th < 2035,East,gasBoiler,gas < naturalGas,use,-69.52341474961962
+30th < 2040,East,gasBoiler,gas < naturalGas,use,-13.62729621660199
+10th < 2020,West,gasBoiler,gas < naturalGas,use,-88.39135893889076
+20th < 2025,West,gasBoiler,gas < naturalGas,use,-61.706397613733294
+20th < 2030,West,gasBoiler,gas < naturalGas,use,-39.17223852168142
+30th < 2035,West,gasBoiler,gas < naturalGas,use,-21.333530797184427
+30th < 2040,West,gasBoiler,gas < naturalGas,use,-4.117311172449686
+10th < 2020,East,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-398.7508456208841
+20th < 2025,East,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-329.92272958124437
+20th < 2030,East,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-277.6230056219559
+30th < 2035,East,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-120.86786203147255
+30th < 2040,East,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-0.0
+10th < 2020,West,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-516.6010620146408
+20th < 2025,West,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-417.73909968714355
+20th < 2030,West,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-381.38414339027395
+30th < 2035,West,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-187.45750779800744
+30th < 2040,West,gasPlant < ocgt < gasFueled,gas < naturalGas,use,-0.0
+10th < 2020,East,electrolysis,electricity,use,-0.0
+20th < 2025,East,electrolysis,electricity,use,-0.0
+20th < 2030,East,electrolysis,electricity,use,-0.0
+30th < 2035,East,electrolysis,electricity,use,-50.49701126729022
+30th < 2040,East,electrolysis,electricity,use,-106.32768541876708
+10th < 2020,West,electrolysis,electricity,use,-0.0
+20th < 2025,West,electrolysis,electricity,use,-0.0
+20th < 2030,West,electrolysis,electricity,use,-0.0
+30th < 2035,West,electrolysis,electricity,use,-60.469986759606215
+30th < 2040,West,electrolysis,electricity,use,-172.71514836125957
+10th < 2020,East,fuelCell,gas < hydrogen,use,-0.0
+20th < 2025,East,fuelCell,gas < hydrogen,use,-0.0
+10th < 2020,West,fuelCell,gas < hydrogen,use,-0.0
+20th < 2025,West,fuelCell,gas < hydrogen,use,-0.0
+20th < 2030,East,fuelCell,gas < hydrogen,use,-0.0
+20th < 2030,West,fuelCell,gas < hydrogen,use,-0.0
+30th < 2035,East,fuelCell,gas < hydrogen,use,5.686757731382386e-12
+30th < 2035,West,fuelCell,gas < hydrogen,use,5.621846876913139e-13
+30th < 2040,East,fuelCell,gas < hydrogen,use,2.9740476747974755e-13
+30th < 2040,West,fuelCell,gas < hydrogen,use,-0.0
+10th < 2020,East,heatpump < ground < network,electricity,use,-10.386135398706537
+20th < 2025,East,heatpump < ground < network,electricity,use,-13.690729354821118
+20th < 2030,East,heatpump < ground < network,electricity,use,-13.681599628554268
+30th < 2035,East,heatpump < ground < network,electricity,use,-14.306900049999197
+30th < 2040,East,heatpump < ground < network,electricity,use,-15.052284942340682
+10th < 2020,West,heatpump < ground < network,electricity,use,-3.4500208624034174
+20th < 2025,West,heatpump < ground < network,electricity,use,-3.4371602690805902
+20th < 2030,West,heatpump < ground < network,electricity,use,-3.408327788182558
+30th < 2035,West,heatpump < ground < network,electricity,use,-3.530778656248741
+30th < 2040,West,heatpump < ground < network,electricity,use,-3.6554293125146704
+10th < 2020,East,autoReforming,gas < hydrogen,gen,0.0
+20th < 2025,East,autoReforming,gas < hydrogen,gen,0.0
+20th < 2030,East,autoReforming,gas < hydrogen,gen,0.0
+30th < 2035,East,autoReforming,gas < hydrogen,gen,0.0
+10th < 2020,West,autoReforming,gas < hydrogen,gen,0.0
+20th < 2025,West,autoReforming,gas < hydrogen,gen,0.0
+20th < 2030,West,autoReforming,gas < hydrogen,gen,0.0
+30th < 2035,West,autoReforming,gas < hydrogen,gen,0.0
+30th < 2040,East,autoReforming,gas < hydrogen,gen,0.0
+30th < 2040,West,autoReforming,gas < hydrogen,gen,0.0
+10th < 2020,East,coalPlant,electricity,gen,16.255186952271565
+10th < 2020,East < EastNorth,coalPlant,heat < districtHeat,gen,18.27055142537438
+20th < 2025,East,coalPlant,electricity,gen,0.3976658700815389
+20th < 2025,East < EastNorth,coalPlant,heat < districtHeat,gen,0.44814059483019786
+20th < 2030,East,coalPlant,electricity,gen,0.0
+20th < 2030,East < EastNorth,coalPlant,heat < districtHeat,gen,0.0
+10th < 2020,East < EastNorth,heatpump < air,heat,gen,29.889772550186798
+20th < 2025,East < EastNorth,heatpump < air,heat,gen,30.007081475033992
+20th < 2030,East < EastNorth,heatpump < air,heat,gen,27.958280524229465
+30th < 2035,East < EastNorth,heatpump < air,heat,gen,24.087110112109848
+30th < 2040,East < EastNorth,heatpump < air,heat,gen,13.358259769376444
+10th < 2020,East < EastSouth,heatpump < air,heat,gen,75.12536524022889
+20th < 2025,East < EastSouth,heatpump < air,heat,gen,72.95084327060653
+20th < 2030,East < EastSouth,heatpump < air,heat,gen,67.37027628512953
+30th < 2035,East < EastSouth,heatpump < air,heat,gen,58.79837140467097
+30th < 2040,East < EastSouth,heatpump < air,heat,gen,29.734418555418685
+10th < 2020,West < WestNorth,heatpump < air,heat,gen,22.00139675224722
+20th < 2025,West < WestNorth,heatpump < air,heat,gen,21.54508019894567
+20th < 2030,West < WestNorth,heatpump < air,heat,gen,20.162133326780772
+30th < 2035,West < WestNorth,heatpump < air,heat,gen,14.685839993582025
+30th < 2040,West < WestNorth,heatpump < air,heat,gen,9.705496185301067
+10th < 2020,West < WestSouth,heatpump < air,heat,gen,46.00462849800039
+20th < 2025,West < WestSouth,heatpump < air,heat,gen,43.27746899237528
+20th < 2030,West < WestSouth,heatpump < air,heat,gen,37.555391715538775
+30th < 2035,West < WestSouth,heatpump < air,heat,gen,28.99950464573026
+30th < 2040,West < WestSouth,heatpump < air,heat,gen,12.515605705055801
+10th < 2020,East,methanation,gas < naturalGas < synthGas,gen,0.0
+20th < 2025,East,methanation,gas < naturalGas < synthGas,gen,0.0
+20th < 2030,East,methanation,gas < naturalGas < synthGas,gen,0.0
+30th < 2035,East,methanation,gas < naturalGas < synthGas,gen,0.0
+30th < 2040,East,methanation,gas < naturalGas < synthGas,gen,15.882919795927691
+10th < 2020,West,methanation,gas < naturalGas < synthGas,gen,0.0
+20th < 2025,West,methanation,gas < naturalGas < synthGas,gen,0.0
+20th < 2030,West,methanation,gas < naturalGas < synthGas,gen,0.0
+30th < 2035,West,methanation,gas < naturalGas < synthGas,gen,0.0
+30th < 2040,West,methanation,gas < naturalGas < synthGas,gen,1.9427248613585177
+10th < 2020,East < EastNorth,solar < openspace,electricity,gen,1.4720812926115168
+20th < 2025,East < EastNorth,solar < openspace,electricity,gen,36.17428000000005
+20th < 2030,East < EastNorth,solar < openspace,electricity,gen,36.10648800000005
+30th < 2035,East < EastNorth,solar < openspace,electricity,gen,36.13557600000005
+30th < 2040,East < EastNorth,solar < openspace,electricity,gen,36.24903600000005
+10th < 2020,East < EastSouth,solar < openspace,electricity,gen,2.64553574839056
+20th < 2025,East < EastSouth,solar < openspace,electricity,gen,49.67225149034068
+20th < 2030,East < EastSouth,solar < openspace,electricity,gen,48.62972183103869
+30th < 2035,East < EastSouth,solar < openspace,electricity,gen,53.904858074689514
+30th < 2040,East < EastSouth,solar < openspace,electricity,gen,54.33303885808488
+10th < 2020,West < WestNorth,solar < openspace,electricity,gen,69.10196351624718
+20th < 2025,West < WestNorth,solar < openspace,electricity,gen,61.39844059497812
+20th < 2030,West < WestNorth,solar < openspace,electricity,gen,58.90732907355553
+30th < 2035,West < WestNorth,solar < openspace,electricity,gen,63.778363624501495
+30th < 2040,West < WestNorth,solar < openspace,electricity,gen,60.075655165975135
+10th < 2020,West < WestSouth,solar < openspace,electricity,gen,55.42949662135003
+20th < 2025,West < WestSouth,solar < openspace,electricity,gen,54.84079988884627
+20th < 2030,West < WestSouth,solar < openspace,electricity,gen,54.77294886514037
+30th < 2035,West < WestSouth,solar < openspace,electricity,gen,55.35260128715004
+30th < 2040,West < WestSouth,solar < openspace,electricity,gen,55.055497448679084
+10th < 2020,East < EastNorth,heatpump < ground < individual,heat,gen,84.1519606869592
+20th < 2025,East < EastNorth,heatpump < ground < individual,heat,gen,81.87299084651609
+20th < 2030,East < EastNorth,heatpump < ground < individual,heat,gen,79.09611485094999
+30th < 2035,East < EastNorth,heatpump < ground < individual,heat,gen,74.06363842744169
+30th < 2040,East < EastNorth,heatpump < ground < individual,heat,gen,53.440613694132786
+10th < 2020,East < EastSouth,heatpump < ground < individual,heat,gen,210.62536415361882
+20th < 2025,East < EastSouth,heatpump < ground < individual,heat,gen,200.11620555597642
+20th < 2030,East < EastSouth,heatpump < ground < individual,heat,gen,191.15858914846487
+30th < 2035,East < EastSouth,heatpump < ground < individual,heat,gen,181.19358401552742
+30th < 2040,East < EastSouth,heatpump < ground < individual,heat,gen,127.37327931631759
+10th < 2020,West < WestNorth,heatpump < ground < individual,heat,gen,71.34531046531033
+20th < 2025,West < WestNorth,heatpump < ground < individual,heat,gen,69.36293110390704
+20th < 2030,West < WestNorth,heatpump < ground < individual,heat,gen,65.11443621588745
+30th < 2035,West < WestNorth,heatpump < ground < individual,heat,gen,61.769948997877215
+30th < 2040,West < WestNorth,heatpump < ground < individual,heat,gen,51.46119391247026
+10th < 2020,West < WestSouth,heatpump < ground < individual,heat,gen,183.29631768380256
+20th < 2025,West < WestSouth,heatpump < ground < individual,heat,gen,172.9385682516283
+20th < 2030,West < WestSouth,heatpump < ground < individual,heat,gen,163.7532537525217
+30th < 2035,West < WestSouth,heatpump < ground < individual,heat,gen,153.64864793298477
+30th < 2040,West < WestSouth,heatpump < ground < individual,heat,gen,116.78453843549175
+20th < 2025,East,gasPlant < ocgt < hydrogenFueled,electricity,gen,0.0
+20th < 2030,East,gasPlant < ocgt < hydrogenFueled,electricity,gen,0.0
+30th < 2035,East,gasPlant < ocgt < hydrogenFueled,electricity,gen,26.190178686146947
+30th < 2040,East,gasPlant < ocgt < hydrogenFueled,electricity,gen,40.715903191187834
+20th < 2025,West,gasPlant < ocgt < hydrogenFueled,electricity,gen,0.0
+20th < 2030,West,gasPlant < ocgt < hydrogenFueled,electricity,gen,0.0
+30th < 2035,West,gasPlant < ocgt < hydrogenFueled,electricity,gen,31.38792808702117
+30th < 2040,West,gasPlant < ocgt < hydrogenFueled,electricity,gen,87.84751055986914
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,gen,78.62023745340913
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,gen,196.49940942503744
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,gen,26.83872825632902
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,gen,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,gen,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,gen,67.1854809169274
+10th < 2020,East < EastNorth,wind < offshore,electricity,gen,129.70300127046482
+20th < 2025,East < EastNorth,wind < offshore,electricity,gen,127.05177106415981
+20th < 2030,East < EastNorth,wind < offshore,electricity,gen,125.10604217303272
+30th < 2035,East < EastNorth,wind < offshore,electricity,gen,128.69118241307592
+30th < 2040,East < EastNorth,wind < offshore,electricity,gen,129.47690835664
+10th < 2020,West < WestNorth,wind < offshore,electricity,gen,55.89140400000014
+20th < 2025,West < WestNorth,wind < offshore,electricity,gen,55.77637400000014
+20th < 2030,West < WestNorth,wind < offshore,electricity,gen,55.79278590853843
+30th < 2035,West < WestNorth,wind < offshore,electricity,gen,54.73286046771406
+30th < 2040,West < WestNorth,wind < offshore,electricity,gen,54.525168000000136
+10th < 2020,East,gasPlant < ccgt < CHP,electricity,gen,17.961621582847435
+10th < 2020,East < EastNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,2.641277908293932
+20th < 2025,East,gasPlant < ccgt < CHP,electricity,gen,16.266476170592824
+20th < 2025,East < EastNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,7.4112432373557064
+20th < 2030,East,gasPlant < ccgt < CHP,electricity,gen,15.687089320698869
+20th < 2030,East < EastNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,6.850470323624377
+30th < 2035,East,gasPlant < ccgt < CHP,electricity,gen,10.826728478265544
+30th < 2035,East < EastNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,4.575085579404639
+30th < 2040,East,gasPlant < ccgt < CHP,electricity,gen,0.018258906695289106
+30th < 2040,East < EastNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.011001919217502433
+10th < 2020,East < EastSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,8.198954800760292
+20th < 2025,East < EastSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,2.727918448587118
+20th < 2030,East < EastSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,2.9390560873218528
+30th < 2035,East < EastSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,2.198664854247618
+30th < 2040,East < EastSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.0001353307161551299
+10th < 2020,West,gasPlant < ccgt < CHP,electricity,gen,2.8094714974899353
+10th < 2020,West < WestNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,1.0910110179384906
+20th < 2025,West,gasPlant < ccgt < CHP,electricity,gen,2.6096743191159097
+20th < 2025,West < WestNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.9704337449693095
+20th < 2030,West,gasPlant < ccgt < CHP,electricity,gen,2.482638754969818
+20th < 2030,West < WestNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.8523416942723415
+30th < 2035,West,gasPlant < ccgt < CHP,electricity,gen,1.7282549618808545
+30th < 2035,West < WestNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.5994851487898448
+30th < 2040,West,gasPlant < ccgt < CHP,electricity,gen,0.0
+30th < 2040,West < WestNorth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.0
+10th < 2020,West < WestSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.6147605057618961
+20th < 2025,West < WestSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.6101205363815513
+20th < 2030,West < WestSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.6505532427289956
+30th < 2035,West < WestSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.4519259728114578
+30th < 2040,West < WestSouth,gasPlant < ccgt < CHP,heat < districtHeat,gen,0.0
+10th < 2020,East < EastNorth,gasBoiler,heat,gen,56.87180040255859
+20th < 2025,East < EastNorth,gasBoiler,heat,gen,43.366664905271854
+20th < 2030,East < EastNorth,gasBoiler,heat,gen,30.193912166058116
+30th < 2035,East < EastNorth,gasBoiler,heat,gen,18.01511606100309
+30th < 2040,East < EastNorth,gasBoiler,heat,gen,3.5060661148491166
+10th < 2020,East < EastSouth,gasBoiler,heat,gen,142.40365123707662
+20th < 2025,East < EastSouth,gasBoiler,heat,gen,107.40059996316907
+20th < 2030,East < EastSouth,gasBoiler,heat,gen,74.42575568447022
+30th < 2035,East < EastSouth,gasBoiler,heat,gen,44.555957213654565
+30th < 2040,East < EastSouth,gasBoiler,heat,gen,8.75850048009268
+10th < 2020,West < WestNorth,gasBoiler,heat,gen,22.877145819120063
+20th < 2025,West < WestNorth,gasBoiler,heat,gen,15.773731532353
+20th < 2030,West < WestNorth,gasBoiler,heat,gen,10.063986938838351
+30th < 2035,West < WestNorth,gasBoiler,heat,gen,5.4840367213379055
+30th < 2040,West < WestNorth,gasBoiler,heat,gen,1.0326188978514617
+10th < 2020,West < WestSouth,gasBoiler,heat,gen,56.675077225881665
+20th < 2025,West < WestSouth,gasBoiler,heat,gen,39.762026320006925
+20th < 2030,West < WestSouth,gasBoiler,heat,gen,25.191027730674914
+30th < 2035,West < WestSouth,gasBoiler,heat,gen,13.716140996128074
+30th < 2040,West < WestSouth,gasBoiler,heat,gen,2.672961157353253
+10th < 2020,East,gasPlant < ocgt < gasFueled,electricity,gen,183.42538898560673
+20th < 2025,East,gasPlant < ocgt < gasFueled,electricity,gen,151.7644556073729
+20th < 2030,East,gasPlant < ocgt < gasFueled,electricity,gen,127.70658258609924
+30th < 2035,East,gasPlant < ocgt < gasFueled,electricity,gen,55.59921653447721
+30th < 2040,East,gasPlant < ocgt < gasFueled,electricity,gen,0.0
+10th < 2020,West,gasPlant < ocgt < gasFueled,electricity,gen,237.63648852673631
+20th < 2025,West,gasPlant < ocgt < gasFueled,electricity,gen,192.1599858560873
+20th < 2030,West,gasPlant < ocgt < gasFueled,electricity,gen,175.43670595952605
+30th < 2035,West,gasPlant < ocgt < gasFueled,electricity,gen,86.23045358708323
+30th < 2040,West,gasPlant < ocgt < gasFueled,electricity,gen,0.0
+10th < 2020,East,electrolysis,gas < hydrogen,gen,0.0
+20th < 2025,East,electrolysis,gas < hydrogen,gen,0.0
+20th < 2030,East,electrolysis,gas < hydrogen,gen,0.0
+30th < 2035,East,electrolysis,gas < hydrogen,gen,38.37772856314037
+30th < 2040,East,electrolysis,gas < hydrogen,gen,80.8090409182544
+10th < 2020,West,electrolysis,gas < hydrogen,gen,0.0
+20th < 2025,West,electrolysis,gas < hydrogen,gen,0.0
+20th < 2030,West,electrolysis,gas < hydrogen,gen,0.0
+30th < 2035,West,electrolysis,gas < hydrogen,gen,45.9571899373024
+30th < 2040,West,electrolysis,gas < hydrogen,gen,131.26351275454462
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,electricity,gen,2.9634129607381183
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,electricity,gen,0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,electricity,gen,56.765424453953585
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,electricity,gen,196.76242618652165
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,electricity,gen,0.0
+10th < 2020,East,fuelCell,electricity,gen,0.0
+10th < 2020,East < EastNorth,fuelCell,heat,gen,0.0
+20th < 2025,East,fuelCell,electricity,gen,0.0
+20th < 2025,East < EastNorth,fuelCell,heat,gen,0.0
+10th < 2020,East < EastSouth,fuelCell,heat,gen,0.0
+20th < 2025,East < EastSouth,fuelCell,heat,gen,0.0
+10th < 2020,West,fuelCell,electricity,gen,0.0
+10th < 2020,West < WestNorth,fuelCell,heat,gen,0.0
+20th < 2025,West,fuelCell,electricity,gen,0.0
+20th < 2025,West < WestNorth,fuelCell,heat,gen,0.0
+10th < 2020,West < WestSouth,fuelCell,heat,gen,0.0
+20th < 2025,West < WestSouth,fuelCell,heat,gen,0.0
+20th < 2030,East,fuelCell,electricity,gen,0.0
+20th < 2030,East < EastNorth,fuelCell,heat,gen,0.0
+20th < 2030,East < EastSouth,fuelCell,heat,gen,0.0
+20th < 2030,West,fuelCell,electricity,gen,0.0
+20th < 2030,West < WestNorth,fuelCell,heat,gen,0.0
+20th < 2030,West < WestSouth,fuelCell,heat,gen,0.0
+30th < 2035,East,fuelCell,electricity,gen,0.0
+30th < 2035,East < EastNorth,fuelCell,heat,gen,0.0
+30th < 2035,East < EastSouth,fuelCell,heat,gen,0.0
+30th < 2035,West,fuelCell,electricity,gen,0.0
+30th < 2035,West < WestNorth,fuelCell,heat,gen,0.0
+30th < 2035,West < WestSouth,fuelCell,heat,gen,0.0
+30th < 2040,East,fuelCell,electricity,gen,0.0
+30th < 2040,East < EastNorth,fuelCell,heat,gen,0.0
+30th < 2040,East < EastSouth,fuelCell,heat,gen,0.0
+30th < 2040,West,fuelCell,electricity,gen,0.0
+30th < 2040,West < WestNorth,fuelCell,heat,gen,0.0
+30th < 2040,West < WestSouth,fuelCell,heat,gen,0.0
+10th < 2020,East < EastNorth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2025,East < EastNorth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2030,East < EastNorth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2035,East < EastNorth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2040,East < EastNorth,wind < onshore < lowFLH,electricity,gen,0.0
+10th < 2020,East < EastSouth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2025,East < EastSouth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2030,East < EastSouth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2035,East < EastSouth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2040,East < EastSouth,wind < onshore < lowFLH,electricity,gen,0.0
+10th < 2020,West < WestNorth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2025,West < WestNorth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2030,West < WestNorth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2035,West < WestNorth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2040,West < WestNorth,wind < onshore < lowFLH,electricity,gen,0.0
+10th < 2020,West < WestSouth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2025,West < WestSouth,wind < onshore < lowFLH,electricity,gen,0.0
+20th < 2030,West < WestSouth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2035,West < WestSouth,wind < onshore < lowFLH,electricity,gen,0.0
+30th < 2040,West < WestSouth,wind < onshore < lowFLH,electricity,gen,0.0
+10th < 2020,East < EastNorth,heatpump < ground < network,heat < districtHeat,gen,2.2677943738484574
+20th < 2025,East < EastNorth,heatpump < ground < network,heat < districtHeat,gen,13.854361413643918
+20th < 2030,East < EastNorth,heatpump < ground < network,heat < districtHeat,gen,14.465892361239934
+30th < 2035,East < EastNorth,heatpump < ground < network,heat < districtHeat,gen,17.180126418595794
+30th < 2040,East < EastNorth,heatpump < ground < network,heat < districtHeat,gen,21.262311000576943
+10th < 2020,East < EastSouth,heatpump < ground < network,heat < districtHeat,gen,48.71528362579159
+20th < 2025,East < EastSouth,heatpump < ground < network,heat < districtHeat,gen,53.940322106970655
+20th < 2030,East < EastSouth,heatpump < ground < network,heat < districtHeat,gen,53.20362318841581
+30th < 2035,East < EastSouth,heatpump < ground < network,heat < districtHeat,gen,53.92537049657289
+30th < 2040,East < EastSouth,heatpump < ground < network,heat < districtHeat,gen,53.33601826419163
+10th < 2020,West < WestNorth,heatpump < ground < network,heat < districtHeat,gen,4.547291425667781
+20th < 2025,West < WestNorth,heatpump < ground < network,heat < districtHeat,gen,4.620045588443931
+20th < 2030,West < WestNorth,heatpump < ground < network,heat < districtHeat,gen,4.637191784179541
+30th < 2035,West < WestNorth,heatpump < ground < network,heat < districtHeat,gen,4.962667780858254
+30th < 2040,West < WestNorth,heatpump < ground < network,heat < districtHeat,gen,5.558002705762933
+10th < 2020,West < WestSouth,heatpump < ground < network,heat < districtHeat,gen,13.550420278845552
+20th < 2025,West < WestSouth,heatpump < ground < network,heat < districtHeat,gen,13.39834390931084
+20th < 2030,West < WestSouth,heatpump < ground < network,heat < districtHeat,gen,13.21508436690797
+30th < 2035,West < WestSouth,heatpump < ground < network,heat < districtHeat,gen,13.600407994832183
+30th < 2040,West < WestSouth,heatpump < ground < network,heat < districtHeat,gen,13.68734055611216
+10th < 2020,East < EastNorth,wind < onshore < highFLH,electricity,gen,56.926120895331245
+20th < 2025,East < EastNorth,wind < onshore < highFLH,electricity,gen,56.86491468939878
+20th < 2030,East < EastNorth,wind < onshore < highFLH,electricity,gen,59.976257194055094
+30th < 2035,East < EastNorth,wind < onshore < highFLH,electricity,gen,132.26900216773998
+30th < 2040,East < EastNorth,wind < onshore < highFLH,electricity,gen,140.0123914803098
+10th < 2020,East < EastSouth,wind < onshore < highFLH,electricity,gen,54.82615498951155
+20th < 2025,East < EastSouth,wind < onshore < highFLH,electricity,gen,54.260435281222314
+20th < 2030,East < EastSouth,wind < onshore < highFLH,electricity,gen,59.52786220050651
+30th < 2035,East < EastSouth,wind < onshore < highFLH,electricity,gen,73.60412947623733
+30th < 2040,East < EastSouth,wind < onshore < highFLH,electricity,gen,76.53805532753128
+10th < 2020,West < WestNorth,wind < onshore < highFLH,electricity,gen,129.97870091409257
+20th < 2025,West < WestNorth,wind < onshore < highFLH,electricity,gen,126.07273240788564
+20th < 2030,West < WestNorth,wind < onshore < highFLH,electricity,gen,120.59348110910088
+30th < 2035,West < WestNorth,wind < onshore < highFLH,electricity,gen,128.65164444978484
+30th < 2040,West < WestNorth,wind < onshore < highFLH,electricity,gen,132.30234578346133
+10th < 2020,West < WestSouth,wind < onshore < highFLH,electricity,gen,101.01706283407084
+20th < 2025,West < WestSouth,wind < onshore < highFLH,electricity,gen,103.66612956422577
+20th < 2030,West < WestSouth,wind < onshore < highFLH,electricity,gen,116.59886338933245
+30th < 2035,West < WestSouth,wind < onshore < highFLH,electricity,gen,125.4418036654066
+30th < 2040,West < WestSouth,wind < onshore < highFLH,electricity,gen,124.97209405585481
+10th < 2020,West,hydro,electricity,stIn,-9.377691839944298
+20th < 2025,West,hydro,electricity,stIn,-14.01954895950005
+20th < 2030,West,hydro,electricity,stIn,-16.326305728157408
+30th < 2035,West,hydro,electricity,stIn,-16.748889541634494
+30th < 2040,West,hydro,electricity,stIn,-14.662199748105234
+10th < 2020,East,gasStorage,gas < hydrogen,stIn,-0.0
+10th < 2020,West,gasStorage,gas < hydrogen,stIn,-0.0
+20th < 2025,East,gasStorage,gas < hydrogen,stIn,-0.0
+20th < 2025,West,gasStorage,gas < hydrogen,stIn,-0.0
+20th < 2030,East,gasStorage,gas < hydrogen,stIn,-0.0
+20th < 2030,West,gasStorage,gas < hydrogen,stIn,-0.0
+30th < 2035,East,gasStorage,gas < hydrogen,stIn,-24.32291876087624
+30th < 2035,West,gasStorage,gas < hydrogen,stIn,-28.214461366814575
+30th < 2040,East,gasStorage,gas < hydrogen,stIn,-70.4498784327287
+30th < 2040,West,gasStorage,gas < hydrogen,stIn,-84.30967224463055
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,stIn,-3.849619946445874
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,stIn,-4.498213366115372
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,stIn,-5.099662689076131
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,stIn,-6.562967727130191
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,stIn,-10.108431436893863
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,stIn,-9.611776865562334
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,stIn,-11.260639174889972
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,stIn,-12.718911861209774
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,stIn,-16.181845231745974
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,stIn,-25.245324363136717
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,stIn,-2.4274371732089723
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,stIn,-2.6960144135868473
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,stIn,-2.8840073627735263
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,stIn,-3.189444142495627
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,stIn,-3.6006843623436153
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,stIn,-5.2369000560689845
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,stIn,-5.986933441462461
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,stIn,-6.427195956238776
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,stIn,-7.4694543878079545
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,stIn,-8.695384987464008
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,stIn,-0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,stIn,-0.0
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIn,-13.165782441266087
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIn,-1.124587639588203
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIn,-51.49546786306352
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIn,-0.0
+10th < 2020,West,hydro,electricity,stOut,11.489845198171013
+20th < 2025,West,hydro,electricity,stOut,15.12534769420747
+20th < 2030,West,hydro,electricity,stOut,16.931999595419942
+30th < 2035,West,hydro,electricity,stOut,17.262967238135086
+30th < 2040,West,hydro,electricity,stOut,15.628671791843162
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,stOut,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,stOut,0.0
+10th < 2020,East,gasStorage,gas < hydrogen,stOut,0.0
+10th < 2020,West,gasStorage,gas < hydrogen,stOut,0.0
+20th < 2025,East,gasStorage,gas < hydrogen,stOut,0.0
+20th < 2025,West,gasStorage,gas < hydrogen,stOut,0.0
+20th < 2030,East,gasStorage,gas < hydrogen,stOut,0.0
+20th < 2030,West,gasStorage,gas < hydrogen,stOut,0.0
+30th < 2035,East,gasStorage,gas < hydrogen,stOut,23.359731177944944
+30th < 2035,West,gasStorage,gas < hydrogen,stOut,27.097168696688644
+30th < 2040,East,gasStorage,gas < hydrogen,stOut,67.66006324679142
+30th < 2040,West,gasStorage,gas < hydrogen,stOut,80.97100922374217
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,stOut,3.378479291498354
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,stOut,3.9843232761583707
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,stOut,4.557390947346741
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,stOut,5.818877811727506
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,stOut,8.72699358316995
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,stOut,8.425817808086046
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,stOut,9.968368412376337
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,stOut,11.3797431413511
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,stOut,14.341215452760787
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,stOut,21.784787205792828
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,stOut,2.0059764236625854
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,stOut,2.256438076108878
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,stOut,2.4379639340981627
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,stOut,2.748455326980699
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,stOut,3.083168126103439
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,stOut,4.493029736296319
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,stOut,5.19632700153179
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,stOut,5.559244152968444
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,stOut,6.547807152467182
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,stOut,7.5703460647313445
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,electricity,stOut,12.123378387567822
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,electricity,stOut,1.0354382756093565
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,electricity,stOut,47.414289209963734
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,electricity,stOut,0.0
+10th < 2020,West,hydro,electricity,stExtIn,-9.377691839944298
+20th < 2025,West,hydro,electricity,stExtIn,-14.01954895950005
+20th < 2030,West,hydro,electricity,stExtIn,-16.326305728157408
+30th < 2035,West,hydro,electricity,stExtIn,-16.748889541634494
+30th < 2040,West,hydro,electricity,stExtIn,-14.662199748105234
+10th < 2020,East,gasStorage,gas < hydrogen,stExtIn,-0.0
+10th < 2020,West,gasStorage,gas < hydrogen,stExtIn,-0.0
+20th < 2025,East,gasStorage,gas < hydrogen,stExtIn,-0.0
+20th < 2025,West,gasStorage,gas < hydrogen,stExtIn,-0.0
+20th < 2030,East,gasStorage,gas < hydrogen,stExtIn,-0.0
+20th < 2030,West,gasStorage,gas < hydrogen,stExtIn,-0.0
+30th < 2035,East,gasStorage,gas < hydrogen,stExtIn,-24.32291876087624
+30th < 2035,West,gasStorage,gas < hydrogen,stExtIn,-28.214461366814575
+30th < 2040,East,gasStorage,gas < hydrogen,stExtIn,-70.4498784327287
+30th < 2040,West,gasStorage,gas < hydrogen,stExtIn,-84.30967224463055
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtIn,-3.849619946445874
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtIn,-4.498213366115372
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtIn,-5.099662689076131
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtIn,-6.562967727130191
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtIn,-10.108431436893863
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtIn,-9.611776865562334
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtIn,-11.260639174889972
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtIn,-12.718911861209774
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtIn,-16.181845231745974
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtIn,-25.245324363136717
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtIn,-2.4274371732089723
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtIn,-2.6960144135868473
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtIn,-2.8840073627735263
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtIn,-3.189444142495627
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtIn,-3.6006843623436153
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtIn,-5.2369000560689845
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtIn,-5.986933441462461
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtIn,-6.427195956238776
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtIn,-7.4694543878079545
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtIn,-8.695384987464008
+10th < 2020,West,hydro,electricity,stExtOut,11.489845198171013
+20th < 2025,West,hydro,electricity,stExtOut,15.12534769420747
+20th < 2030,West,hydro,electricity,stExtOut,16.931999595419942
+30th < 2035,West,hydro,electricity,stExtOut,17.262967238135086
+30th < 2040,West,hydro,electricity,stExtOut,15.628671791843162
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,stExtOut,0.0
+10th < 2020,East,gasStorage,gas < hydrogen,stExtOut,0.0
+10th < 2020,West,gasStorage,gas < hydrogen,stExtOut,0.0
+20th < 2025,East,gasStorage,gas < hydrogen,stExtOut,0.0
+20th < 2025,West,gasStorage,gas < hydrogen,stExtOut,0.0
+20th < 2030,East,gasStorage,gas < hydrogen,stExtOut,0.0
+20th < 2030,West,gasStorage,gas < hydrogen,stExtOut,0.0
+30th < 2035,East,gasStorage,gas < hydrogen,stExtOut,23.359731177944944
+30th < 2035,West,gasStorage,gas < hydrogen,stExtOut,27.097168696688644
+30th < 2040,East,gasStorage,gas < hydrogen,stExtOut,67.66006324679142
+30th < 2040,West,gasStorage,gas < hydrogen,stExtOut,80.97100922374217
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtOut,3.378479291498354
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtOut,3.9843232761583707
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtOut,4.557390947346741
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtOut,5.818877811727506
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,stExtOut,8.72699358316995
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtOut,8.425817808086046
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtOut,9.968368412376337
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtOut,11.3797431413511
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtOut,14.341215452760787
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,stExtOut,21.784787205792828
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtOut,2.0059764236625854
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtOut,2.256438076108878
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtOut,2.4379639340981627
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtOut,2.748455326980699
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,stExtOut,3.083168126103439
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtOut,4.493029736296319
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtOut,5.19632700153179
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtOut,5.559244152968444
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtOut,6.547807152467182
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,stExtOut,7.5703460647313445
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,electricity,stExtOut,12.123378387567822
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,electricity,stExtOut,1.0354382756093565
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,electricity,stExtOut,47.414289209963734
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,electricity,stExtOut,0.0
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,stIntIn,-0.0
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-13.165782441266087
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-1.124587639588203
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,electricity,stIntIn,-51.49546786306352
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,electricity,stIntIn,-0.0
+10th < 2020,East,autoReforming,gas < naturalGas,emission,0.0
+20th < 2025,East,autoReforming,gas < naturalGas,emission,0.0
+20th < 2030,East,autoReforming,gas < naturalGas,emission,0.0
+30th < 2035,East,autoReforming,gas < naturalGas,emission,0.0
+10th < 2020,West,autoReforming,gas < naturalGas,emission,0.0
+20th < 2025,West,autoReforming,gas < naturalGas,emission,0.0
+20th < 2030,West,autoReforming,gas < naturalGas,emission,0.0
+30th < 2035,West,autoReforming,gas < naturalGas,emission,0.0
+30th < 2040,East,autoReforming,gas < naturalGas,emission,0.0
+30th < 2040,West,autoReforming,gas < naturalGas,emission,0.0
+10th < 2020,East,methanation,gas < hydrogen,emission,0.0
+20th < 2025,East,methanation,gas < hydrogen,emission,0.0
+20th < 2030,East,methanation,gas < hydrogen,emission,0.0
+30th < 2035,East,methanation,gas < hydrogen,emission,0.0
+30th < 2040,East,methanation,gas < hydrogen,emission,-3.7324861520430077
+10th < 2020,West,methanation,gas < hydrogen,emission,0.0
+20th < 2025,West,methanation,gas < hydrogen,emission,0.0
+20th < 2030,West,methanation,gas < hydrogen,emission,0.0
+30th < 2035,West,methanation,gas < hydrogen,emission,0.0
+30th < 2040,West,methanation,gas < hydrogen,emission,-0.4565403424192515
+10th < 2020,East,none,gas < naturalGas < fossilGas,emission,0.0
+20th < 2025,East,none,gas < naturalGas < fossilGas,emission,0.0
+20th < 2030,East,none,gas < naturalGas < fossilGas,emission,0.0
+30th < 2035,East,none,gas < naturalGas < fossilGas,emission,0.11920849935994354
+30th < 2040,East,none,gas < naturalGas < fossilGas,emission,0.0
+10th < 2020,West,none,gas < naturalGas < fossilGas,emission,0.0
+20th < 2025,West,none,gas < naturalGas < fossilGas,emission,0.0
+20th < 2030,West,none,gas < naturalGas < fossilGas,emission,0.0
+30th < 2035,West,none,gas < naturalGas < fossilGas,emission,0.11920849935994354
+30th < 2040,West,none,gas < naturalGas < fossilGas,emission,0.0
+10th < 2020,East,none,gas < naturalGas < synthGas,emission,0.0
+20th < 2025,East,none,gas < naturalGas < synthGas,emission,0.0
+20th < 2030,East,none,gas < naturalGas < synthGas,emission,0.0
+30th < 2035,East,none,gas < naturalGas < synthGas,emission,0.0
+30th < 2040,East,none,gas < naturalGas < synthGas,emission,0.005214569215371616
+10th < 2020,West,none,gas < naturalGas < synthGas,emission,0.0
+20th < 2025,West,none,gas < naturalGas < synthGas,emission,0.0
+20th < 2030,West,none,gas < naturalGas < synthGas,emission,0.0
+30th < 2035,West,none,gas < naturalGas < synthGas,emission,0.0
+30th < 2040,West,none,gas < naturalGas < synthGas,emission,0.005214569215371616
+10th < 2020,East,coalPlant,coal,emission,15.807101572572742
+20th < 2025,East,coalPlant,coal,emission,0.3872400513309603
+20th < 2030,East,coalPlant,coal,emission,0.0
+10th < 2020,East,gasPlant < ccgt < CHP,gas < naturalGas,emission,8.453415111724905
+20th < 2025,East,gasPlant < ccgt < CHP,gas < naturalGas,emission,7.7139104480968115
+20th < 2030,East,gasPlant < ccgt < CHP,gas < naturalGas,emission,7.441235962314347
+30th < 2035,East,gasPlant < ccgt < CHP,gas < naturalGas,emission,5.138841457082637
+30th < 2040,East,gasPlant < ccgt < CHP,gas < naturalGas,emission,0.008614619604378922
+10th < 2020,West,gasPlant < ccgt < CHP,gas < naturalGas,emission,1.3240885822052328
+20th < 2025,West,gasPlant < ccgt < CHP,gas < naturalGas,emission,1.2292173119908119
+20th < 2030,West,gasPlant < ccgt < CHP,gas < naturalGas,emission,1.169250250691854
+30th < 2035,West,gasPlant < ccgt < CHP,gas < naturalGas,emission,0.8148974307694755
+30th < 2040,West,gasPlant < ccgt < CHP,gas < naturalGas,emission,0.0
+10th < 2020,East,gasBoiler,gas < naturalGas,emission,52.03303459479374
+20th < 2025,East,gasBoiler,gas < naturalGas,emission,39.367008048981795
+20th < 2030,East,gasBoiler,gas < naturalGas,emission,27.31735771652687
+30th < 2035,East,gasBoiler,gas < naturalGas,emission,16.33800246616061
+30th < 2040,East,gasBoiler,gas < naturalGas,emission,3.202414610901468
+10th < 2020,West,gasBoiler,gas < naturalGas,emission,20.771969350639342
+20th < 2025,West,gasBoiler,gas < naturalGas,emission,14.501003439227317
+20th < 2030,West,gasBoiler,gas < naturalGas,emission,9.205476052595133
+30th < 2035,West,gasBoiler,gas < naturalGas,emission,5.013379737338343
+30th < 2040,West,gasBoiler,gas < naturalGas,emission,0.967568125525676
+10th < 2020,East,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,93.70644872090783
+20th < 2025,East,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,77.53184145159243
+20th < 2030,East,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,65.24140632115962
+30th < 2035,East,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,28.40394757739606
+30th < 2040,East,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,0.0
+10th < 2020,West,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,121.40124957344057
+20th < 2025,West,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,98.16868842647867
+20th < 2030,West,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,89.62527369671437
+30th < 2035,West,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,44.05251433253178
+30th < 2040,West,gasPlant < ocgt < gasFueled,gas < naturalGas,emission,0.0
+10th < 2020,East,none,coal,trdBuy,40.618515738406565
+10th < 2020,West,none,coal,trdBuy,0.0
+20th < 2025,East,none,coal,trdBuy,0.995066429307946
+20th < 2025,West,none,coal,trdBuy,0.0
+20th < 2030,East,none,coal,trdBuy,0.0
+20th < 2030,West,none,coal,trdBuy,0.0
+30th < 2035,East,none,coal,trdBuy,0.0
+30th < 2035,West,none,coal,trdBuy,0.0
+30th < 2040,East,none,coal,trdBuy,0.0
+30th < 2040,West,none,coal,trdBuy,0.0
+10th < 2020,East,none,gas < naturalGas < fossilGas,trdBuy,656.1399933081976
+10th < 2020,West,none,gas < naturalGas < fossilGas,trdBuy,610.6268404522773
+20th < 2025,East,none,gas < naturalGas < fossilGas,trdBuy,530.2670636113661
+20th < 2025,West,none,gas < naturalGas < fossilGas,trdBuy,484.6762092667951
+20th < 2030,East,none,gas < naturalGas < fossilGas,trdBuy,425.5319148936206
+20th < 2030,West,none,gas < naturalGas < fossilGas,trdBuy,425.53191489362325
+30th < 2035,East,none,gas < naturalGas < fossilGas,trdBuy,262.9857082409942
+30th < 2035,West,none,gas < naturalGas < fossilGas,trdBuy,162.5462066526173
+10th < 2020,East,none,gas < hydrogen,trdBuy,0.0
+10th < 2020,West,none,gas < hydrogen,trdBuy,0.0
+20th < 2025,East,none,gas < hydrogen,trdBuy,0.0
+20th < 2025,West,none,gas < hydrogen,trdBuy,0.0
+20th < 2030,East,none,gas < hydrogen,trdBuy,0.0
+20th < 2030,West,none,gas < hydrogen,trdBuy,0.0
+30th < 2035,East,none,gas < hydrogen,trdBuy,0.0
+30th < 2035,West,none,gas < hydrogen,trdBuy,0.0
+30th < 2040,East,none,gas < hydrogen,trdBuy,0.0
+30th < 2040,West,none,gas < hydrogen,trdBuy,0.0
+10th < 2020,East,none,electricity,export,-2.67417548205246
+20th < 2025,East,none,electricity,export,-4.165317261907456
+20th < 2030,East,none,electricity,export,-3.957093106313759
+30th < 2035,East,none,electricity,export,-12.503671359081602
+30th < 2040,East,none,electricity,export,-10.681671094645035
+10th < 2020,West,none,electricity,export,-115.63676281398028
+20th < 2025,West,none,electricity,export,-75.61334416686478
+20th < 2030,West,none,electricity,export,-79.19884238038527
+30th < 2035,West,none,electricity,export,-76.46794163148284
+30th < 2040,West,none,electricity,export,-131.9794462328838
+10th < 2020,East,none,gas < naturalGas < fossilGas,export,-0.0
+20th < 2025,East,none,gas < naturalGas < fossilGas,export,-0.0
+20th < 2030,East,none,gas < naturalGas < fossilGas,export,-0.0
+30th < 2035,East,none,gas < naturalGas < fossilGas,export,-50.727021004231396
+30th < 2040,East,none,gas < naturalGas < fossilGas,export,-0.0
+10th < 2020,East,none,gas < naturalGas < synthGas,export,-0.0
+20th < 2025,East,none,gas < naturalGas < synthGas,export,-0.0
+20th < 2030,East,none,gas < naturalGas < synthGas,export,-0.0
+30th < 2035,East,none,gas < naturalGas < synthGas,export,-0.0
+30th < 2040,East,none,gas < naturalGas < synthGas,export,-2.218965623562389
+10th < 2020,West,none,gas < naturalGas < fossilGas,export,-0.0
+20th < 2025,West,none,gas < naturalGas < fossilGas,export,-0.0
+20th < 2030,West,none,gas < naturalGas < fossilGas,export,-0.0
+30th < 2035,West,none,gas < naturalGas < fossilGas,export,-0.0
+30th < 2040,West,none,gas < naturalGas < fossilGas,export,-0.0
+10th < 2020,West,none,gas < naturalGas < synthGas,export,-0.0
+20th < 2025,West,none,gas < naturalGas < synthGas,export,-0.0
+20th < 2030,West,none,gas < naturalGas < synthGas,export,-0.0
+30th < 2035,West,none,gas < naturalGas < synthGas,export,-0.0
+30th < 2040,West,none,gas < naturalGas < synthGas,export,-0.0
+10th < 2020,West,none,electricity,import,2.567208462770363
+20th < 2025,West,none,electricity,import,3.9987045714311646
+20th < 2030,West,none,electricity,import,3.7988093820612114
+30th < 2035,West,none,electricity,import,12.003524504718328
+30th < 2040,West,none,electricity,import,10.254404250859237
+10th < 2020,East,none,electricity,import,113.32402755771975
+20th < 2025,East,none,electricity,import,74.10107728353096
+20th < 2030,East,none,electricity,import,77.61486553278203
+30th < 2035,East,none,electricity,import,74.9385827988564
+30th < 2040,East,none,electricity,import,129.3398573082162
+10th < 2020,West,none,gas < naturalGas < fossilGas,import,0.0
+20th < 2025,West,none,gas < naturalGas < fossilGas,import,0.0
+20th < 2030,West,none,gas < naturalGas < fossilGas,import,0.0
+30th < 2035,West,none,gas < naturalGas < fossilGas,import,49.712480584147016
+30th < 2040,West,none,gas < naturalGas < fossilGas,import,0.0
+10th < 2020,West,none,gas < naturalGas < synthGas,import,0.0
+20th < 2025,West,none,gas < naturalGas < synthGas,import,0.0
+20th < 2030,West,none,gas < naturalGas < synthGas,import,0.0
+30th < 2035,West,none,gas < naturalGas < synthGas,import,0.0
+30th < 2040,West,none,gas < naturalGas < synthGas,import,2.174586311091142
+10th < 2020,East,none,gas < naturalGas < fossilGas,import,0.0
+20th < 2025,East,none,gas < naturalGas < fossilGas,import,0.0
+20th < 2030,East,none,gas < naturalGas < fossilGas,import,0.0
+30th < 2035,East,none,gas < naturalGas < fossilGas,import,0.0
+30th < 2040,East,none,gas < naturalGas < fossilGas,import,0.0
+10th < 2020,East,none,gas < naturalGas < synthGas,import,0.0
+20th < 2025,East,none,gas < naturalGas < synthGas,import,0.0
+20th < 2030,East,none,gas < naturalGas < synthGas,import,0.0
+30th < 2035,East,none,gas < naturalGas < synthGas,import,0.0
+30th < 2040,East,none,gas < naturalGas < synthGas,import,0.0
+10th < 2020,West,hydro,electricity,flhStOut,1436.2306497713766
+20th < 2025,West,hydro,electricity,flhStOut,1890.6684617759338
+20th < 2030,West,hydro,electricity,flhStOut,2116.4999494274925
+30th < 2035,West,hydro,electricity,flhStOut,2157.870904766886
+30th < 2040,West,hydro,electricity,flhStOut,1953.5839739803953
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,flhStOut,NaN
+10th < 2020,East,gasStorage,gas,flhStOut,0.0
+10th < 2020,West,gasStorage,gas,flhStOut,0.0
+20th < 2025,East,gasStorage,gas,flhStOut,0.0
+20th < 2025,West,gasStorage,gas,flhStOut,0.0
+20th < 2030,East,gasStorage,gas,flhStOut,0.0
+20th < 2030,West,gasStorage,gas,flhStOut,0.0
+30th < 2035,East,gasStorage,gas,flhStOut,108.14690360159697
+30th < 2035,West,gasStorage,gas,flhStOut,273.70877471402673
+30th < 2040,East,gasStorage,gas,flhStOut,313.2410335499603
+30th < 2040,West,gasStorage,gas,flhStOut,817.8889820580017
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStOut,159.2055164622099
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStOut,169.48077026890542
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStOut,175.30203971333924
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStOut,338.0839459344523
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStOut,316.41627794552795
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStOut,133.78003165539715
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStOut,174.58913884038884
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStOut,189.5262706991379
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStOut,290.47971593832676
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStOut,328.13366382818066
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStOut,89.51351395761394
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStOut,88.52532910498036
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStOut,118.92011523315757
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStOut,178.46720054048424
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStOut,180.568940819341
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStOut,133.99444174102644
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStOut,81.7843501057879
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStOut,109.69327139630015
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStOut,172.6291646204275
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStOut,177.3407156382154
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,flhStOut,NaN
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,flhStOut,NaN
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,flhStOut,NaN
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,flhStOut,NaN
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,flhStOut,NaN
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,flhStOut,NaN
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,flhStOut,NaN
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,flhStOut,0.0
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,flhStOut,0.0
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,flhStOut,0.0
+10th < 2020,East,autoReforming,none,flhConv,NaN
+20th < 2025,East,autoReforming,none,flhConv,NaN
+20th < 2030,East,autoReforming,none,flhConv,NaN
+30th < 2035,East,autoReforming,none,flhConv,NaN
+10th < 2020,West,autoReforming,none,flhConv,NaN
+20th < 2025,West,autoReforming,none,flhConv,NaN
+20th < 2030,West,autoReforming,none,flhConv,NaN
+30th < 2035,West,autoReforming,none,flhConv,NaN
+30th < 2040,East,autoReforming,none,flhConv,NaN
+30th < 2040,West,autoReforming,none,flhConv,NaN
+10th < 2020,East,coalPlant,none,flhConv,4054.636121294931
+20th < 2025,East,coalPlant,none,flhConv,6366.689887774578
+20th < 2030,East,coalPlant,none,flhConv,NaN
+10th < 2020,East,heatpump < air,none,flhConv,4228.217851364412
+20th < 2025,East,heatpump < air,none,flhConv,4137.655345403182
+20th < 2030,East,heatpump < air,none,flhConv,3851.3397219562607
+30th < 2035,East,heatpump < air,none,flhConv,3381.0096083273443
+30th < 2040,East,heatpump < air,none,flhConv,1833.0243805014006
+10th < 2020,West,heatpump < air,none,flhConv,2975.6326420796227
+20th < 2025,West,heatpump < air,none,flhConv,2828.1962564390847
+20th < 2030,West,heatpump < air,none,flhConv,2520.144093891641
+30th < 2035,West,heatpump < air,none,flhConv,1937.7087434959763
+30th < 2040,West,heatpump < air,none,flhConv,1019.0194605860731
+10th < 2020,East,methanation,none,flhConv,NaN
+20th < 2025,East,methanation,none,flhConv,NaN
+20th < 2030,East,methanation,none,flhConv,NaN
+30th < 2035,East,methanation,none,flhConv,NaN
+30th < 2040,East,methanation,none,flhConv,623.9956825441865
+10th < 2020,West,methanation,none,flhConv,NaN
+20th < 2025,West,methanation,none,flhConv,NaN
+20th < 2030,West,methanation,none,flhConv,NaN
+30th < 2035,West,methanation,none,flhConv,NaN
+30th < 2040,West,methanation,none,flhConv,398.9807489716087
+10th < 2020,East < EastNorth,solar < openspace,none,flhConv,897.9199
+20th < 2025,East < EastNorth,solar < openspace,none,flhConv,904.3570000000013
+20th < 2030,East < EastNorth,solar < openspace,none,flhConv,902.6622000000012
+30th < 2035,East < EastNorth,solar < openspace,none,flhConv,903.3894000000013
+30th < 2040,East < EastNorth,solar < openspace,none,flhConv,906.2259000000014
+10th < 2020,East < EastSouth,solar < openspace,none,flhConv,899.1041000000014
+20th < 2025,East < EastSouth,solar < openspace,none,flhConv,788.4484363546139
+20th < 2030,East < EastSouth,solar < openspace,none,flhConv,771.9003465244236
+30th < 2035,East < EastSouth,solar < openspace,none,flhConv,855.6326678522145
+30th < 2040,East < EastSouth,solar < openspace,none,flhConv,862.4291882235697
+10th < 2020,West < WestNorth,solar < openspace,none,flhConv,1031.372589794734
+20th < 2025,West < WestNorth,solar < openspace,none,flhConv,916.3946357459421
+20th < 2030,West < WestNorth,solar < openspace,none,flhConv,879.2138667694855
+30th < 2035,West < WestNorth,solar < openspace,none,flhConv,951.9158749925596
+30th < 2040,West < WestNorth,solar < openspace,none,flhConv,896.6515696414199
+10th < 2020,West < WestSouth,solar < openspace,none,flhConv,1108.5899324270008
+20th < 2025,West < WestSouth,solar < openspace,none,flhConv,1096.8159977769253
+20th < 2030,West < WestSouth,solar < openspace,none,flhConv,1095.4589773028074
+30th < 2035,West < WestSouth,solar < openspace,none,flhConv,1107.0520257430007
+30th < 2040,West < WestSouth,solar < openspace,none,flhConv,1101.1099489735816
+10th < 2020,East,heatpump < ground < individual,none,flhConv,6217.3637149366405
+20th < 2025,East,heatpump < ground < individual,none,flhConv,5973.120380238383
+20th < 2030,East,heatpump < ground < individual,none,flhConv,5747.719783294271
+30th < 2035,East,heatpump < ground < individual,none,flhConv,5456.087188313919
+30th < 2040,East,heatpump < ground < individual,none,flhConv,3961.950949529889
+10th < 2020,West,heatpump < ground < individual,none,flhConv,5172.4141733373335
+20th < 2025,West,heatpump < ground < individual,none,flhConv,4939.684634028255
+20th < 2030,West,heatpump < ground < individual,none,flhConv,4685.524164852811
+30th < 2035,West,heatpump < ground < individual,none,flhConv,4428.657435719245
+30th < 2040,West,heatpump < ground < individual,none,flhConv,3513.804730464069
+20th < 2025,East,gasPlant < ocgt < hydrogenFueled,none,flhConv,NaN
+20th < 2030,East,gasPlant < ocgt < hydrogenFueled,none,flhConv,NaN
+30th < 2035,East,gasPlant < ocgt < hydrogenFueled,none,flhConv,4669.481663714036
+30th < 2040,East,gasPlant < ocgt < hydrogenFueled,none,flhConv,575.6244779518782
+20th < 2025,West,gasPlant < ocgt < hydrogenFueled,none,flhConv,NaN
+20th < 2030,West,gasPlant < ocgt < hydrogenFueled,none,flhConv,NaN
+30th < 2035,West,gasPlant < ocgt < hydrogenFueled,none,flhConv,4698.960708953589
+30th < 2040,West,gasPlant < ocgt < hydrogenFueled,none,flhConv,2009.9364166772325
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,none,flhConv,1595.9190803999993
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,none,flhConv,1595.9190804
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,none,flhConv,1962.5088737733774
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,none,flhConv,NaN
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,none,flhConv,1962.5088737733736
+10th < 2020,East < EastNorth,wind < offshore,none,flhConv,3242.5750317616203
+20th < 2025,East < EastNorth,wind < offshore,none,flhConv,3176.294276603995
+20th < 2030,East < EastNorth,wind < offshore,none,flhConv,3127.6510543258178
+30th < 2035,East < EastNorth,wind < offshore,none,flhConv,3217.2795603268983
+30th < 2040,East < EastNorth,wind < offshore,none,flhConv,3236.922708916
+10th < 2020,West < WestNorth,wind < offshore,none,flhConv,2794.570200000007
+20th < 2025,West < WestNorth,wind < offshore,none,flhConv,2788.818700000007
+20th < 2030,West < WestNorth,wind < offshore,none,flhConv,2789.6392954269213
+30th < 2035,West < WestNorth,wind < offshore,none,flhConv,2736.643023385703
+30th < 2040,West < WestNorth,wind < offshore,none,flhConv,2726.258400000007
+10th < 2020,East,gasPlant < ccgt < CHP,none,flhConv,6657.545126018524
+20th < 2025,East,gasPlant < ccgt < CHP,none,flhConv,6075.143149546721
+20th < 2030,East,gasPlant < ccgt < CHP,none,flhConv,5860.396485646021
+30th < 2035,East,gasPlant < ccgt < CHP,none,flhConv,4047.1298810974226
+30th < 2040,East,gasPlant < ccgt < CHP,none,flhConv,58.844445343973504
+10th < 2020,West,gasPlant < ccgt < CHP,none,flhConv,6560.788492189372
+20th < 2025,West,gasPlant < ccgt < CHP,none,flhConv,6090.706394792598
+20th < 2030,West,gasPlant < ccgt < CHP,none,flhConv,5793.5727959019805
+30th < 2035,West,gasPlant < ccgt < CHP,none,flhConv,4037.773422381485
+30th < 2040,West,gasPlant < ccgt < CHP,none,flhConv,NaN
+10th < 2020,East,gasBoiler,none,flhConv,1553.433141322064
+20th < 2025,East,gasBoiler,none,flhConv,1385.0532324575083
+20th < 2030,East,gasBoiler,none,flhConv,1230.3160812217673
+30th < 2035,East,gasBoiler,none,flhConv,1035.128237655755
+30th < 2040,East,gasBoiler,none,flhConv,467.38694397409654
+10th < 2020,West,gasBoiler,none,flhConv,879.0170233319218
+20th < 2025,West,gasBoiler,none,flhConv,766.8243518840711
+20th < 2030,West,gasBoiler,none,flhConv,629.0356464184158
+30th < 2035,West,gasBoiler,none,flhConv,493.1850025691342
+30th < 2040,West,gasBoiler,none,flhConv,240.5018898918709
+10th < 2020,East,gasPlant < ocgt < gasFueled,none,flhConv,2913.3959407355865
+20th < 2025,East,gasPlant < ocgt < gasFueled,none,flhConv,2431.134475775909
+20th < 2030,East,gasPlant < ocgt < gasFueled,none,flhConv,2161.6954889272356
+30th < 2035,East,gasPlant < ocgt < gasFueled,none,flhConv,1058.0209105752951
+30th < 2040,East,gasPlant < ocgt < gasFueled,none,flhConv,NaN
+10th < 2020,West,gasPlant < ocgt < gasFueled,none,flhConv,3573.41596292405
+20th < 2025,West,gasPlant < ocgt < gasFueled,none,flhConv,2889.571231886577
+20th < 2030,West,gasPlant < ocgt < gasFueled,none,flhConv,2638.097917728043
+30th < 2035,West,gasPlant < ocgt < gasFueled,none,flhConv,1748.238307917996
+30th < 2040,West,gasPlant < ocgt < gasFueled,none,flhConv,NaN
+10th < 2020,East,electrolysis,none,flhConv,NaN
+20th < 2025,East,electrolysis,none,flhConv,NaN
+20th < 2030,East,electrolysis,none,flhConv,NaN
+30th < 2035,East,electrolysis,none,flhConv,2498.5406532828065
+30th < 2040,East,electrolysis,none,flhConv,3073.2475964501987
+10th < 2020,West,electrolysis,none,flhConv,NaN
+20th < 2025,West,electrolysis,none,flhConv,NaN
+20th < 2030,West,electrolysis,none,flhConv,NaN
+30th < 2035,West,electrolysis,none,flhConv,2117.0851271171887
+30th < 2040,West,electrolysis,none,flhConv,2135.745600033938
+10th < 2020,East < EastNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2025,East < EastNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2030,East < EastNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+30th < 2035,East < EastNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+30th < 2040,East < EastNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+10th < 2020,East < EastSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2025,East < EastSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2030,East < EastSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+30th < 2035,East < EastSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+30th < 2040,East < EastSouth,solar < rooftop < photovoltaic,none,flhConv,893.8025270166204
+10th < 2020,West < WestNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2025,West < WestNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2030,West < WestNorth,solar < rooftop < photovoltaic,none,flhConv,NaN
+30th < 2035,West < WestNorth,solar < rooftop < photovoltaic,none,flhConv,1116.771025124996
+30th < 2040,West < WestNorth,solar < rooftop < photovoltaic,none,flhConv,1116.7710251250012
+10th < 2020,West < WestSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2025,West < WestSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+20th < 2030,West < WestSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+30th < 2035,West < WestSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+30th < 2040,West < WestSouth,solar < rooftop < photovoltaic,none,flhConv,NaN
+10th < 2020,East,fuelCell,none,flhConv,NaN
+20th < 2025,East,fuelCell,none,flhConv,NaN
+10th < 2020,West,fuelCell,none,flhConv,NaN
+20th < 2025,West,fuelCell,none,flhConv,NaN
+20th < 2030,East,fuelCell,none,flhConv,NaN
+20th < 2030,West,fuelCell,none,flhConv,NaN
+30th < 2035,East,fuelCell,none,flhConv,Inf
+30th < 2035,West,fuelCell,none,flhConv,Inf
+30th < 2040,East,fuelCell,none,flhConv,Inf
+30th < 2040,West,fuelCell,none,flhConv,NaN
+10th < 2020,East < EastNorth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2025,East < EastNorth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2030,East < EastNorth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2035,East < EastNorth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2040,East < EastNorth,wind < onshore < lowFLH,none,flhConv,NaN
+10th < 2020,East < EastSouth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2025,East < EastSouth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2030,East < EastSouth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2035,East < EastSouth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2040,East < EastSouth,wind < onshore < lowFLH,none,flhConv,NaN
+10th < 2020,West < WestNorth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2025,West < WestNorth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2030,West < WestNorth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2035,West < WestNorth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2040,West < WestNorth,wind < onshore < lowFLH,none,flhConv,NaN
+10th < 2020,West < WestSouth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2025,West < WestSouth,wind < onshore < lowFLH,none,flhConv,NaN
+20th < 2030,West < WestSouth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2035,West < WestSouth,wind < onshore < lowFLH,none,flhConv,NaN
+30th < 2040,West < WestSouth,wind < onshore < lowFLH,none,flhConv,NaN
+10th < 2020,East,heatpump < ground < network,none,flhConv,2044.7459592717926
+20th < 2025,East,heatpump < ground < network,none,flhConv,2695.3301158812646
+20th < 2030,East,heatpump < ground < network,none,flhConv,2686.6398352420806
+30th < 2035,East,heatpump < ground < network,none,flhConv,2737.362463392651
+30th < 2040,East,heatpump < ground < network,none,flhConv,2282.524509576401
+10th < 2020,West,heatpump < ground < network,none,flhConv,2107.3473318929387
+20th < 2025,West,heatpump < ground < network,none,flhConv,2059.9123683616012
+20th < 2030,West,heatpump < ground < network,none,flhConv,2042.6328761753693
+30th < 2035,West,heatpump < ground < network,none,flhConv,2116.018472976072
+30th < 2040,West,heatpump < ground < network,none,flhConv,1949.4173246967366
+10th < 2020,East < EastNorth,wind < onshore < highFLH,none,flhConv,1916.602300000007
+20th < 2025,East < EastNorth,wind < onshore < highFLH,none,flhConv,1914.5415947697995
+20th < 2030,East < EastNorth,wind < onshore < highFLH,none,flhConv,1910.9039669365195
+30th < 2035,East < EastNorth,wind < onshore < highFLH,none,flhConv,1841.5887384265689
+30th < 2040,East < EastNorth,wind < onshore < highFLH,none,flhConv,1866.8318864041305
+10th < 2020,East < EastSouth,wind < onshore < highFLH,none,flhConv,1915.8636646283899
+20th < 2025,East < EastSouth,wind < onshore < highFLH,none,flhConv,1896.0949642027836
+20th < 2030,East < EastSouth,wind < onshore < highFLH,none,flhConv,1887.8338279911936
+30th < 2035,East < EastSouth,wind < onshore < highFLH,none,flhConv,1906.9501244878816
+30th < 2040,East < EastSouth,wind < onshore < highFLH,none,flhConv,1913.451383188282
+10th < 2020,West < WestNorth,wind < onshore < highFLH,none,flhConv,1999.6723217552703
+20th < 2025,West < WestNorth,wind < onshore < highFLH,none,flhConv,1939.580498582856
+20th < 2030,West < WestNorth,wind < onshore < highFLH,none,flhConv,1855.284324755398
+30th < 2035,West < WestNorth,wind < onshore < highFLH,none,flhConv,1979.2560684582284
+30th < 2040,West < WestNorth,wind < onshore < highFLH,none,flhConv,2035.4207043609435
+10th < 2020,West < WestSouth,wind < onshore < highFLH,none,flhConv,2109.2838600157625
+20th < 2025,West < WestSouth,wind < onshore < highFLH,none,flhConv,2095.151501736474
+20th < 2030,West < WestSouth,wind < onshore < highFLH,none,flhConv,2079.890015311201
+30th < 2035,West < WestSouth,wind < onshore < highFLH,none,flhConv,2090.6967277567765
+30th < 2040,West < WestSouth,wind < onshore < highFLH,none,flhConv,2082.868234264247
+10th < 2020,West,hydro,electricity,flhStIn,1172.2114799930373
+20th < 2025,West,hydro,electricity,flhStIn,1752.4436199375061
+20th < 2030,West,hydro,electricity,flhStIn,2040.788216019676
+30th < 2035,West,hydro,electricity,flhStIn,2093.6111927043116
+30th < 2040,West,hydro,electricity,flhStIn,1832.7749685131541
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,flhStIn,NaN
+10th < 2020,East,gasStorage,gas,flhStIn,0.0
+10th < 2020,West,gasStorage,gas,flhStIn,0.0
+20th < 2025,East,gasStorage,gas,flhStIn,0.0
+20th < 2025,West,gasStorage,gas,flhStIn,0.0
+20th < 2030,East,gasStorage,gas,flhStIn,0.0
+20th < 2030,West,gasStorage,gas,flhStIn,0.0
+30th < 2035,East,gasStorage,gas,flhStIn,101.34549483698434
+30th < 2035,West,gasStorage,gas,flhStIn,256.4951033346779
+30th < 2040,East,gasStorage,gas,flhStIn,293.54116013636957
+30th < 2040,West,gasStorage,gas,flhStIn,766.4515658602776
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStIn,591.4496856266489
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStIn,691.2035134397087
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStIn,798.0848744432734
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStIn,1105.795432408006
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,flhStIn,1439.2172764974662
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStIn,590.6954436805854
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStIn,692.0269110043957
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStIn,797.2609651301643
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStIn,1090.5926275534162
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,flhStIn,1437.7505431361699
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStIn,1086.6036468430589
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStIn,1263.6923362459486
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStIn,1351.8095391652823
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStIn,1555.8089912252933
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,flhStIn,1612.126178221219
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStIn,967.2795674088704
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStIn,1105.8141891885716
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStIn,1205.0378117161217
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStIn,1400.451305901196
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,flhStIn,1557.2659370238232
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,flhStIn,NaN
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,flhStIn,NaN
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,flhStIn,NaN
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,flhStIn,NaN
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,flhStIn,NaN
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,flhStIn,NaN
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,flhStIn,NaN
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,flhStIn,0.0
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,flhStIn,0.0
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,flhStIn,0.0
+10th < 2020,West,hydro,electricity,cycStOut,205.17580711019664
+20th < 2025,West,hydro,electricity,cycStOut,270.0954945394191
+20th < 2030,West,hydro,electricity,cycStOut,302.35713563249897
+30th < 2035,West,hydro,electricity,cycStOut,308.2672721095551
+30th < 2040,West,hydro,electricity,cycStOut,279.0834248543422
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,cycStOut,NaN
+10th < 2020,East,gasStorage,gas,cycStOut,0.0
+10th < 2020,West,gasStorage,gas,cycStOut,0.0
+20th < 2025,East,gasStorage,gas,cycStOut,0.0
+20th < 2025,West,gasStorage,gas,cycStOut,0.0
+20th < 2030,East,gasStorage,gas,cycStOut,0.0
+20th < 2030,West,gasStorage,gas,cycStOut,0.0
+30th < 2035,East,gasStorage,gas,cycStOut,0.10156404859976063
+30th < 2035,West,gasStorage,gas,cycStOut,0.18064779131125763
+30th < 2040,East,gasStorage,gas,cycStOut,0.29417418802952794
+30th < 2040,West,gasStorage,gas,cycStOut,0.5398067281582811
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStOut,13.251466233076409
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStOut,15.627778299110744
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStOut,17.875531278722026
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStOut,22.82348245571366
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStOut,18.401693282601563
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStOut,13.398021819139935
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStOut,15.85085513741737
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStOut,18.095103689248088
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStOut,22.804186124779495
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStOut,18.366561257920004
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStOut,9.4143997289476
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStOut,10.589860260331573
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStOut,11.441792998968165
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStOut,12.898983647129835
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStOut,13.25191773836509
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStOut,11.947017659226747
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStOut,13.817093162973626
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStOut,14.782094035775334
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStOut,17.410694402441298
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStOut,16.036908473758672
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,cycStOut,NaN
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,cycStOut,NaN
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,cycStOut,NaN
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,cycStOut,NaN
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,cycStOut,NaN
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,cycStOut,NaN
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,cycStOut,NaN
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,cycStOut,0.0
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,cycStOut,0.0
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,cycStOut,0.0
+10th < 2020,West,hydro,electricity,cycStIn,167.4587828561482
+20th < 2025,West,hydro,electricity,cycStIn,250.34908856250087
+20th < 2030,West,hydro,electricity,cycStIn,291.54117371709657
+30th < 2035,West,hydro,electricity,cycStIn,299.0873132434731
+30th < 2040,West,hydro,electricity,cycStIn,261.82499550187913
+10th < 2020,East < EastNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2025,East < EastNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2030,East < EastNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2035,East < EastNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2040,East < EastNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+10th < 2020,East < EastSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2025,East < EastSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2030,East < EastSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2035,East < EastSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2040,East < EastSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+10th < 2020,West < WestNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2025,West < WestNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2030,West < WestNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2035,West < WestNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2040,West < WestNorth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+10th < 2020,West < WestSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2025,West < WestSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+20th < 2030,West < WestSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2035,West < WestSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+30th < 2040,West < WestSouth,solar < rooftop < solarThermal,heat,cycStIn,NaN
+10th < 2020,East,gasStorage,gas,cycStIn,0.0
+10th < 2020,West,gasStorage,gas,cycStIn,0.0
+20th < 2025,East,gasStorage,gas,cycStIn,0.0
+20th < 2025,West,gasStorage,gas,cycStIn,0.0
+20th < 2030,East,gasStorage,gas,cycStIn,0.0
+20th < 2030,West,gasStorage,gas,cycStIn,0.0
+30th < 2035,East,gasStorage,gas,cycStIn,0.10575182069946192
+30th < 2035,West,gasStorage,gas,cycStIn,0.18809640911209716
+30th < 2040,East,gasStorage,gas,cycStIn,0.3063038192727334
+30th < 2040,West,gasStorage,gas,cycStIn,0.5620644816308703
+10th < 2020,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStIn,15.099429159999563
+20th < 2025,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStIn,17.643418055054802
+20th < 2030,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStIn,20.00249286548125
+30th < 2035,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStIn,25.742038864552363
+30th < 2040,East < EastNorth,districtHeatStorage,heat < districtHeat,cycStIn,21.314585956457424
+10th < 2020,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStIn,15.283833462660777
+20th < 2025,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStIn,17.90571464978169
+20th < 2030,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStIn,20.22453636116719
+30th < 2035,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStIn,25.73099969961563
+30th < 2040,East < EastSouth,districtHeatStorage,heat < districtHeat,cycStIn,21.284109503181913
+10th < 2020,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStIn,11.39238906096926
+20th < 2025,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStIn,12.65286922872634
+20th < 2030,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStIn,13.535153162370829
+30th < 2035,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStIn,14.968621623069968
+30th < 2040,West < WestNorth,districtHeatStorage,heat < districtHeat,cycStIn,15.476279923761219
+10th < 2020,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStIn,13.92497738086091
+20th < 2025,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStIn,15.919324764747111
+20th < 2030,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStIn,17.089987846773358
+30th < 2035,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStIn,19.86136498386287
+30th < 2040,West < WestSouth,districtHeatStorage,heat < districtHeat,cycStIn,18.42017418961998
+10th < 2020,East,solar < rooftop < photovoltaic,electricity,cycStIn,NaN
+20th < 2025,East,solar < rooftop < photovoltaic,electricity,cycStIn,NaN
+20th < 2030,East,solar < rooftop < photovoltaic,electricity,cycStIn,NaN
+10th < 2020,West,solar < rooftop < photovoltaic,electricity,cycStIn,NaN
+20th < 2025,West,solar < rooftop < photovoltaic,electricity,cycStIn,NaN
+20th < 2030,West,solar < rooftop < photovoltaic,electricity,cycStIn,NaN
+30th < 2035,East,solar < rooftop < photovoltaic,electricity,cycStIn,NaN
+30th < 2035,West,solar < rooftop < photovoltaic,electricity,cycStIn,0.0
+30th < 2040,East,solar < rooftop < photovoltaic,electricity,cycStIn,0.0
+30th < 2040,West,solar < rooftop < photovoltaic,electricity,cycStIn,0.0

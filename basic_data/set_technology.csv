@@ -1,0 +1,23 @@
+technology_1,technology_2,technology_3,mode,carrier_conversion_in,carrier_conversion_out,carrier_stored_in,carrier_stored_out,technology_type,region_disaggregate,region_expansion,comment
+wind,onshore,highFLH,,,electricity,,,mature,yes,2,differentiation of onshore wind to account for the different quality of sights
+wind,onshore,lowFLH,,,electricity,,,mature,yes,2,
+wind,offshore,,,,electricity,,,mature,yes,2,
+solar,,openspace,,,electricity,,,mature,yes,2,
+solar,rooftop,photovoltaic,,,electricity,,electricity,mature,yes,2,describes a residental system that can be combined with a lithium-ion battery
+solar,rooftop,solarThermal,,,heat,,heat,mature,yes,2,solar heating system that competes for rooftop space with the PV system
+gasPlant,ccgt,noCHP,,naturalGas,electricity,,,stock,no,,
+gasPlant,ccgt,CHP,moreHeat; moreElec,naturalGas,electricity; districtHeat,,,mature,no,,"two modes are assumed: ""moreHeat"" as a lower overall efficiency, but a smaller smaller electricity share "
+gasPlant,ocgt,gasFueled,,naturalGas,electricity,,,mature,no,,
+gasPlant,ocgt,hydrogenFueled,,hydrogen,electricity,,,mature,no,,
+coalPlant,,,,coal,electricity; districtHeat,,,stock,no,,
+gasStorage,,,,,,gas,gas,stock,no,,
+gasBoiler,,,,naturalGas,heat,,,mature,no,,
+hydro,,,,,,electricity,electricity,stock,no,,
+electrolysis,,,,electricity,hydrogen,,,emerging,no,,
+methanation,,,,hydrogen,synthGas,,,emerging,no,,
+fuelCell,,,,hydrogen,electricity; heat,,,emerging,no,,
+autoReforming,,,,electricity; naturalGas,hydrogen,,,mature,no,,
+districtHeatStorage,,,,,,districtHeat,districtHeat,mature,no,,
+heatpump,ground,network,,electricity,districtHeat,,,mature,no,,
+heatpump,ground,individual,,electricity,heat,,,mature,no,,
+heatpump,air,,,electricity,heat,,,mature,no,,

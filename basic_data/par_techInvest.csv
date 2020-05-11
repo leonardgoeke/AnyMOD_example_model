@@ -1,0 +1,58 @@
+timestep_1,timestep_2,region_1,region_2,technology_1,technology_2,technology_3,parameter,value,comment,source
+,2020,,,,,,rateDisc,0,discount rate in % for 2020,own assumption
+,,,,,,,rateDisc,0.02,"discount rate in %, default value",own assumption
+30th,,West,WestSouth,,,,rateDisc,0.015,discount rate in % for WestSouth in the 30th,own assumption
+30th,,East,,,,,rateDisc,0.03,discount rate in % for East in the 30th,own assumption
+,,,,,,,rateExpConv,0.02,interest rate in % for expansion for conversion capacity,own assumption
+,,,,,,,rateExpStIn,0.02,interest rate in % for expansion for storage input capacity,own assumption
+,,,,,,,rateExpStOut,0.02,interest rate in % for expansion for storage output capacity,own assumption
+,,,,,,,rateExpStSize,0.02,interest rate in % for expansion for storage capacity (relating to size),own assumption
+,,,,,,,rateExpExc,0.02,interest rate in % for expansion of exchange capacity,own assumption
+,all,East,EastNorth,wind,onshore,highFLH,capaConvUp,75,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastNorth,wind,onshore,lowFLH,capaConvUp,75,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastNorth,solar,,openspace,capaConvUp,40,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastNorth,solar,rooftop,,capaConvUp,245.452141,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastNorth,wind,offshore,,capaConvUp,40,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastSouth,wind,onshore,highFLH,capaConvUp,40,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastSouth,wind,onshore,lowFLH,capaConvUp,40,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastSouth,solar,,openspace,capaConvUp,63,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastSouth,solar,rooftop,,capaConvUp,147.2712846,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,East,EastSouth,wind,offshore,,expConvFix,0,prevent investment into wind offshore for region,
+,all,West,WestNorth,wind,onshore,highFLH,capaConvUp,65,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestNorth,wind,onshore,lowFLH,capaConvUp,65,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestNorth,solar,,openspace,capaConvUp,67,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestNorth,solar,rooftop,,capaConvUp,235.9754503,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestNorth,wind,offshore,,capaConvUp,20,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestSouth,wind,onshore,highFLH,capaConvUp,60,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestSouth,wind,onshore,lowFLH,capaConvUp,60,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestSouth,solar,,openspace,capaConvUp,50,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestSouth,solar,rooftop,,capaConvUp,141.5852702,upper limit in GW for conversion capacity,"based on own computations building on Nahmacher (2014), Documentation of LIMES-EU, equally split into high and low FLH and regions"
+,all,West,WestSouth,wind,offshore,,expConvFix,0,prevent investment into wind offshore for region,
+10th,,East,EastNorth,coalPlant,,,capaConvResi,20,pre-existing conversion capacities in GW,own arbitrary assumption
+20th,,East,EastNorth,coalPlant,,,capaConvResi,10,pre-existing conversion capacities in GW,own arbitrary assumption
+10th,,East,"all(EastNorth,EastSouth)",gasBoiler,,,capaConvResi,10,pre-existing conversion capacities in GW,own arbitrary assumption
+20th,,East,"all(EastNorth,EastSouth)",gasBoiler,,,capaConvResi,8,pre-existing conversion capacities in GW,own arbitrary assumption
+10th,,West,"all(WestNorth,WestSouth)",gasBoiler,,,capaConvResi,14,pre-existing conversion capacities in GW,own arbitrary assumption
+20th,,West,"all(WestNorth,WestSouth)",gasBoiler,,,capaConvResi,6,pre-existing conversion capacities in GW,own arbitrary assumption
+,all,West,WestSouth,hydro,,,capaStInResi,8,pre-existing storage input capacities in GW,own assumption
+,,,,hydro,,,stOutToStIn,1,fixes ratio between storage input and output capacity,own assumption
+,,,,hydro,,,sizeToStIn,7,fixes ratio between storage size and input capacity (also known as E-to-P ratio),"based on Acatech (2015), Technologiesteckbrief Energiespeicher"
+,,,,solar,rooftop,photovoltaic,stOutToStIn,1,fixes ratio between storage input and output capacity,own assumption
+,,,,solar,rooftop,solarThermal,stOutToStIn,1,fixes ratio between storage input and output capacity,own assumption
+,all,East,EastNorth,gasStorage,,,capaStInResi,100,pre-existing storage input capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,East,EastSouth,gasStorage,,,capaStInResi,140,pre-existing storage input capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,East,EastNorth,gasStorage,,,capaStOutResi,90,pre-existing storage output capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,East,EastSouth,gasStorage,,,capaStOutResi,126,pre-existing storage output capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,East,EastNorth,gasStorage,,,capaStSizeResi,100000,pre-existing storage capacities (relating to size) in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,East,EastSouth,gasStorage,,,capaStSizeResi,130000,pre-existing storage capacities (relating to size) in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,West,WestNorth,gasStorage,,,capaStInResi,50,pre-existing storage input capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,West,WestSouth,gasStorage,,,capaStInResi,60,pre-existing storage input capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,West,WestNorth,gasStorage,,,capaStOutResi,45,pre-existing storage output capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,West,WestSouth,gasStorage,,,capaStOutResi,54,pre-existing storage output capacities in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,West,WestNorth,gasStorage,,,capaStSizeResi,70000,pre-existing storage capacities (relating to size) in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,West,WestSouth,gasStorage,,,capaStSizeResi,80000,pre-existing storage capacities (relating to size) in GW,"own assumption that roughly comply with GIE (2018), Storage Database"
+,all,East,,heatpump,ground,individual,capaConvUp,9,"upper limit in GW for conversion capacity, always relates to input capacity!",own assumption
+,all,East,,heatpump,air,,capaConvUp,7,"upper limit in GW for conversion capacity, always relates to input capacity!",own assumption
+10th,,,,gasPlant,ocgt,hydrogenFueled,expConvFix,0,prevent investment into hydrogen fueled gas turbines in 2020 and 2025,
+,all,West,,heatpump,ground,individual,capaConvUp,9,"upper limit in GW for conversion capacity, always relates to input capacity!",own assumption
+,all,West,,heatpump,air,,capaConvUp,7,"upper limit in GW for conversion capacity, always relates to input capacity!",own assumption

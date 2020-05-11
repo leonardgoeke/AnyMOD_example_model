@@ -1,0 +1,21 @@
+timestep_1,timestep_2,carrier_1,carrier_2,carrier_3,region_1,region_2,region_1,region_2,parameter,value,comment,source
+,,coal,,,,,,,trdBuyPrc,8,price in €/MWh of buying coal from an external market,own assumption
+all(10th:20th),,gas,naturalGas,fossilGas,,,,,trdBuyPrc,30,price in €/MWh of buying naturalGas from an external market,own assumption
+30th,2035,gas,naturalGas,fossilGas,,,,,trdBuyPrc,30,price in €/MWh of buying naturalGas from an external market,own assumption
+,,gas,hydrogen,,,,,,trdBuyPrc,400,price in €/MWh of buying hydrogen from an external market,own assumption
+all,,electricity,,,West,WestNorth,West,WestSouth,capaExcUp,14,upper limit in GW for electricity exchange and by defining this limit enables the building of exchange capacities for this regions in general,own assumption
+all,,electricity,,,East,EastNorth,East,EastSouth,capaExcUp,20,upper limit in GW for electricity exchange and by defining this limit enables the building of exchange capacities for this regions in general,own assumption
+all,,electricity,,,West,WestNorth,East,EastNorth,capaExcUp,3,upper limit in GW for electricity exchange and by defining this limit enables the building of exchange capacities for this regions in general,own assumption
+,,gas,naturalGas,,West,WestNorth,West,WestSouth,capaExcResi,8,capacities in GW for gas exchange between regions existing without any investment,own assumption
+,,gas,naturalGas,,East,EastNorth,East,EastSouth,capaExcResi,6,capacities in GW for gas exchange between regions existing without any investment,own assumption
+,,gas,naturalGas,,West,WestNorth,East,EastSouth,capaExcResi,8,capacities in GW for gas exchange between regions existing without any investment,own assumption
+,,gas,naturalGas,,West,WestNorth,West,WestSouth,expExcFix,0,fixes the expension of gas exchange capacities to zero,own assumption
+,,gas,naturalGas,,East,EastNorth,East,EastSouth,expExcFix,0,fixes the expension of gas exchange capacities to zero,own assumption
+,,gas,naturalGas,,West,WestNorth,East,EastSouth,expExcFix,0,fixes the expension of gas exchange capacities to zero,own assumption
+,,electricity,,,West,WestNorth,West,WestSouth,lossExc,0.02,undirected losses in percent when exchanging electricity between WestNorth and WestSouth,own assumption
+,,electricity,,,East,EastNorth,East,EastSouth,lossExc,0.02,undirected losses in percent when exchanging electricity between EastNorth and EastSouth,own assumption
+,,electricity,,,West,WestNorth,East,EastSouth,lossExc,0.04,undirected losses in percent when exchanging electricity between WestNorth and EastSouth,own assumption
+,,electricity,,,West,WestSouth,East,EastSouth,capaExcResiDir,2,pre-existing directed exchange capacity in GW from West to East,own assumption
+,,electricity,,,West,WestNorth,East,EastSouth,lossExcDir,0.02,directed losses in percent when exchanging electricity between WestNorth and EastSouth,own assumption
+,,electricity,,,,,,,costExpExc,1000,costs of expanding capacities in M€/GWh for electricity exchange,own assumption
+,,gas,naturalGas,,,,,,lossExc,0.02,undirected losses in percent when exchanging gas,own assumption

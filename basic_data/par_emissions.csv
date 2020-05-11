@@ -1,0 +1,14 @@
+timestep_1,timestep_2,carrier_1,carrier_2,technology_1,region_1,parameter,value,comment,source
+,,coal,,,,emissionFac,389.1599997,emission factor in tCO2/GWh of using coal,"UBA (2016), CO2 Emission Factors for Fossil Fuels"
+,,gas,naturalGas,,,emissionFac,235,emission factor in tCO2/GWh of using gas (regardless if natural or synthetic gas),"UBA (2016), CO2 Emission Factors for Fossil Fuels"
+10th,,gas,hydrogen,methanation,,emissionFac,-176.25,"negative emissionfactor in tCO2/GWh from methanation, values increase due to increase of effiency (for same amount of hydrogen more synthetic gas is created and, thus, also more carbon is being used)",own assumption
+20th,,gas,hydrogen,methanation,,emissionFac,-178.6,"negative emission factor in tCO2/GWh from methanation, values increase due to increase of effiency (for same amount of hydrogen more synthetic gas is created and, thus, also more carbon is being used)",own assumption
+30th,,gas,hydrogen,methanation,,emissionFac,-188,"negative emission factor in tCO2/GWh from methanation, values increase due to increase of effiency (for same amount of hydrogen more synthetic gas is created and, thus, also more carbon is being used)",own assumption
+,,gas,naturalGas,autoReforming,,emissionFac,23.5,"emission factor in tCO2/GWh, results from 90% capture rate when transforming natural gas to hydrogen","Jacobs (2018), Hydrogen supply chain evidence base"
+,2020,,,,West,emissionUp,180,emission limit in MtCO2 for West in 2020,own assumption
+,2020,,,,East,emissionUp,170,emission limit in MtCO2 for East in 2020,own assumption
+,2025,,,,West,emissionUp,130,emission limit in MtCO2 for West in 2025,own assumption
+,2025,,,,East,emissionUp,125,emission limit in MtCO2 for East in 2025,own assumption
+,2030,,,,all,emissionUp,100,independent emission limits in MtCO2 for East and West in 2030,own assumption
+,2035,,,,all,emissionUp,50,independent emission limits in MtCO2 for East and West in 2035,own assumption
+,2040,,,,,emissionUp,0,joined emission limit in MtCO2 for 2040,own assumption

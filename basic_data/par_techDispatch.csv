@@ -1,0 +1,40 @@
+timestep_1,technology_1,technology_2,technology_3,mode,carrier_1,parameter,value,comment,source
+,solar,rooftop,solarThermal,,,effConv,1.758,"conversion efficiency, rooftop capacities are in GWp for photovoltaic systems, therefore efficiency is used to scale up thermal output correctly",own calculations
+,gasPlant,ccgt,noCHP,,,effConv,0.64,conversion efficiency,"Acatech (2015), Technologiesteckbrief Konventionelle Kraftwerke"
+,gasPlant,ccgt,CHP,moreHeat,,effConv,0.9,conversion efficiency for moreHeat mode of CCGT with CHP,"Acatech (2015), Technologiesteckbrief Konventionelle Kraftwerke"
+,gasPlant,ccgt,CHP,moreElec,,effConv,0.8,conversion efficiency for moreElec mode of CCGT with CHP,"Acatech (2015), Technologiesteckbrief Konventionelle Kraftwerke"
+,gasPlant,ocgt,gasFueled,,,effConv,0.46,conversion efficiency,"Acatech (2015), Technologiesteckbrief Konventionelle Kraftwerke"
+,gasPlant,ocgt,hydrogenFueled,,,effConv,0.7,conversion efficiency,"Pilavachi (2009), Multi-criteria evaluation of hydrogen and natural gas fuelled power plant technologies"
+,coalPlant,,,,,effConv,0.85,conversion efficiency,"Acatech (2015), Technologiesteckbrief Konventionelle Kraftwerke"
+,gasBoiler,,,,,effConv,0.9,conversion efficiency,own data
+10th,methanation,,,,,effConv,0.75,conversion efficiency,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+20th,methanation,,,,,effConv,0.76,conversion efficiency,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+30th,methanation,,,,,effConv,0.8,conversion efficiency,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+10th,electrolysis,,,,,effConv,0.55,conversion efficiency,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+20th,electrolysis,,,,,effConv,0.655,conversion efficiency,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+30th,electrolysis,,,,,effConv,0.76,conversion efficiency,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,fuelCell,,,,,effConv,0.918,"conversion efficiency, here Carnot efficiencies since excess heat is alson an output, effiency relating only to electricity is obtained via combination with the ratio of genration outputs","Acatech (2015), Technologiesteckbrief Energiespeicher"
+,gasPlant,,,,,avaConv,0.95,availability of capacity,"Acatech (2015), Technologiesteckbrief Konventionelle Kraftwerke"
+,coalPlant,,,,,avaConv,0.85,availability of capacity,"Acatech (2015), Technologiesteckbrief Konventionelle Kraftwerke"
+,gasPlant,ccgt,CHP,moreHeat,electricity,ratioEnerGenFix,0.444,ratio of specified carrier (in this case electricity) on total output,"LTT (2015), KWK-Technik und Auslegung"
+,gasPlant,ccgt,CHP,moreElec,electricity,ratioEnerGenFix,0.625,ratio of specified carrier (in this case electricity) on total output,"LTT (2015), KWK-Technik und Auslegung"
+,coalPlant,,,,electricity,ratioEnerGenLow,0.424,ratio of specified carrier (in this case electricity) on total output,"LTT (2015), KWK-Technik und Auslegung"
+,coalPlant,,,,electricity,ratioEnerGenUp,0.471,ratio of specified carrier (in this case electricity) on total output,"LTT (2015), KWK-Technik und Auslegung"
+10th,fuelCell,,,,electricity,ratioEnerGenFix,0.523,ratio of specified carrier (in this case electricity) on total output,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+20th,fuelCell,,,,electricity,ratioEnerGenFix,0.534,ratio of specified carrier (in this case electricity) on total output,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+30th,fuelCell,,,,electricity,ratioEnerGenFix,0.556,ratio of specified carrier (in this case electricity) on total output,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,solar,rooftop,photovoltaic,,electricity,effStIn,0.96,input efficiency of storage,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,solar,rooftop,solarThermal,,heat,effStIn,0.894,input efficiency of storage,own data
+,gasStorage,,,,,effStIn,0.98,input efficiency of storage,own data
+,hydro,,,,,effStIn,0.88,input efficiency of storage,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,solar,rooftop,photovoltaic,,electricity,effStOut,0.96,output effiency of storage,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,solar,rooftop,solarThermal,,heat,effStOut,0.894,output effiency of storage,own data
+,gasStorage,,,,,effStOut,0.98,output effiency of storage,own data
+,hydro,,,,,effStOut,0.89,output effiency of storage,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,solar,rooftop,photovoltaic,,electricity,stDis,0.0001,self-discharge rate of storage in percent per hour,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,solar,rooftop,solarThermal,,heat,stDis,0.001,self-discharge rate of storage in percent per hour,own data
+,autoReforming,,,,,effConv,0.8,conversion efficiency,"Jacobs (2018), Hydrogen supply chain evidence base"
+,autoReforming,,,,electricity,ratioEnerUseFix,0.05,ratio of specified carrier (in this case electricity) on total input,"Jacobs (2018), Hydrogen supply chain evidence base"
+,districtHeatStorage,,,,,effStIn,0.97,input efficiency of storage technology,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,districtHeatStorage,,,,,effStOut,0.97,output effiency of storage,"Acatech (2015), Technologiesteckbrief Energiespeicher"
+,districtHeatStorage,,,,,stDis,0.001,self-discharge rate of storage in percent per hour,"Acatech (2015), Technologiesteckbrief Energiespeicher"

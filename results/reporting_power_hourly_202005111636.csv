@@ -1,0 +1,11 @@
+errStatus,group,instance,message
+green,carrier mapping,,carrier heat inherited resolution from children
+green,carrier mapping,,carrier gas inherited resolution from children
+green,carrier mapping,,carrier gas < naturalGas inherited resolution from children
+green,timestep mapping,,superordinate dispatch level provided via options was used
+green,technology mapping,expansion level,specific spatial expansion level provided for wind < onshore < highFLH was used instead of a carrier based value
+green,technology mapping,expansion level,specific spatial expansion level provided for wind < onshore < lowFLH was used instead of a carrier based value
+green,technology mapping,expansion level,specific spatial expansion level provided for wind < offshore was used instead of a carrier based value
+green,technology mapping,expansion level,specific spatial expansion level provided for solar < openspace was used instead of a carrier based value
+green,technology mapping,expansion level,specific spatial expansion level provided for solar < rooftop < photovoltaic was used instead of a carrier based value
+green,technology mapping,expansion level,specific spatial expansion level provided for solar < rooftop < solarThermal is equal to default value obtained from carriers
